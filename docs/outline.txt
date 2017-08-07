@@ -1,0 +1,63 @@
+- Humans are similar to other animals & humans are different from other animals
+- Foraging (distributing behavior across space and time)
+	- Mates distributed in space and time
+	- Food sources distributed in space and time
+	- Threats distributed in space and time
+- Ethological imperatives (needs hierarchies)
+	- Ingestion
+	- Defense
+	- Reproduction
+	- Rest
+	- Communication/affiliation
+- Cajal/Swanson
+	- Perception
+	- Action
+	- Cog/motion
+	- Behavioral state
+- Computational brain
+	- Functions
+		- Input
+		- Processing
+		- Memory
+		- Output
+	- Structures
+		- Serial vs. parallel
+		- Bottom-up vs. top-down
+		- Modular vs. distributed processing
+	- Representations
+- Networks, systems
+	- Nodes
+	- Connections
+	- Multivariate influences
+	- Flow, network connectivity/segregation
+- Temporal dimensions of causality (Sapolsky)
+	- Nervous system activity
+	- Perception/action
+	- Hormonal
+	- Days to months
+	- Years
+	- Centuries
+	- Millenia
+- Spatial dimensions of causality
+	- Genes
+	- Chemical/hormonal
+	- Neuronal
+	- Circuit/region
+- Measures
+	- Psychological
+		- Behavior
+		- Internal psychological states
+	- Biological
+		- Psychophys
+		- Brain response
+			- EEG/MEG
+			- Blood flow, O2
+			- Metabolism
+		- Brain structure
+- Constraints
+	- Temporal: Act in real time
+	- Energy:
+	- Geometry:
+	- Developmental/plasticity
+	- Socio-cultural
+- Open neuroscience

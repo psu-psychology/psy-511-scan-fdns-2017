@@ -1,0 +1,23 @@
+---
+title: "Resources"
+---
+
+## Text
+
+Breedlove, S. M. & Watson, N. V. (2013). *Biological Psychology: An introduction to behavioral and cognitive neuroscience (7th ed.)*. Sunderland, MA: Sinauer.
+
+## Journals
+
+## Web sites
+
+- Course home page: <http://psu-psych.github.io/psy-511-scan-fdns>
+- Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm>
+- Neurosynth (fMRI meta-analysis): <http://neurosynth.org>
+- [*Neuron* Brainview](http://www.cell.com/neuron/brainview)
+
+## Data repositories
+
+- OpenNeuro
+- OpenfMRI
+
+## Brain atlases

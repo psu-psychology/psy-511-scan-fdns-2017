@@ -1,0 +1,227 @@
+---
+title: "Schedule"
+---
+
+## Week 1
+
+### Wed, Aug 23
+
+- Topics
+    + Structure of the course
+    + Why biological psychology? Read: BW 1
+    + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+- Materials
+    + More on [MRI physics](https://www.youtube.com/watch?v=Ok9ILIYzmaY)
+
+### Fri, Aug 25
+
+- Topics
+    + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+- Materials
+
+## Week 2
+
+### Wed, Aug 30
+
+- Topics
+    + Neuroanatomy. Read BW 2:34-49.
+- Materials
+    + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
+
+### Fri, Sep 1
+
+- Topics
+    + Neuroanatomy. Read BW 2:34-49.
+- Materials
+    + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
+
+## Week 3
+
+### Wed, Sep 6
+
+- Topics
+    + **Neuroanatomy Lab**.
+- Materials
+    + [Handout](handouts/neuroanatomy-lab-handout.md).
+
+### Fri, Sep 8
+
+- Topics
+    + **Neuroanatomy Lab**.
+- Materials
+    + [Handout](handouts/neuroanatomy-lab-handout.md).
+
+## Week 4
+
+### Wed, Sep 13
+
+- Topics
+    + Cellular neuroanatomy. Read BW 2:23-33. 
+- Materials
+    + [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md).
+
+### Fri, Sep 15
+
+- Topics
+    + **Quiz 1**.
+    + Neurophysiology. Read BW 3:57-73.
+- Materials
+    + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
+
+## Week 5
+
+- Topics
+    + Neural communication. Read BW 3:55-89.
+- Materials
+
+### Wed, Sep 20,
+
+- Topics
+    + Neural communication. Read BW 3:55-89.
+- Materials
+
+### Fri, Sep 22
+
+- Topics
+    + Neurochemistry. Read BW: 4:107-124.
+- Materials
+
+## Week 6
+
+### Wed, Sep 27
+
+- Topics
+    + Neurochemistry. Read BW: 4:107-124.
+- Materials
+
+### Fri Sep 29
+
+- Topics
+    + Hormones. 5:125-154.
+- Materials
+
+## Week 7
+
+### Wed, Oct 4
+
+- Topics
+    + Evolution. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+- Materials
+
+### Fri, Oct 6
+
+- Topics
+    + Development. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+- Materials
+
+## Week 8
+
+### Wed, Oct 11
+
+- Topics
+    + **Quiz 2**.
+    + Perception. Read BW 8:223-247.
+- Materials
+
+### Fri, Oct 13
+
+- Topics
+    + Perception. Read BW 8:223-247.
+- Materials
+
+## Week 9
+
+### Wed, Oct 18
+
+- Topics
+    + Action
+- Materials
+
+### Fri, Oct 20
+
+- Topics
+    + Action
+- Materials
+
+## Week 10
+
+### Wed, Oct 25
+
+- Topics
+    + Cognition. Read BW 17, 18, 19.
+- Materials
+
+### Fri, Oct 27
+
+- Topics
+    + Learning & memory
+- Materials
+
+## Week 11
+
+### Wed, Nov 1
+
+- Topic
+    + Emotion. Read BW 15.
+- Materials
+
+### Wed, Nov 3
+
+- Topics
+    + Emotion
+- Materials
+
+## Week 12
+
+### Wed, Nov 8
+
+- Topics
+    + Disorder and Disease. Read BW 16.
+- Materials
+
+### Fri, Nov 10
+
+- Topics
+    + Disorder and Disease. Read BW 16.
+- Materials
+
+## Week 13
+
+### Wed, Nov 15
+
+- Topics
+    + **Quiz 3**
+    + Catch-up day
+    
+### Fri, Nov 22
+
+- Topics
+    - Prep for student presentations
+
+## Thanksgiving Break, November 20 - 24, 2017
+
+## Week 14
+
+### Wed Nov, 29
+
+- Topics
+    - Prep for student presentations
+
+### Fri, Dec 1
+
+- Topics
+    - Student presentation Group A
+    - Student presentation Group B
+
+## Week 15
+
+### Wed, Dec 6
+
+- Topics
+    - Student presentation Group C
+    - Student presentation Group D
+
+### Fri, Dec 8
+
+- Topics
+    + The future of biological approaches to behavior
