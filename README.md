@@ -13,4 +13,5 @@ Lecture notes are rendered from `.Rmd` documents stored in the `lectures/` direc
 
 ## Building the site
 
-Clone or download the directory and run `rmarkdown::render_site()` from the project root. The rendered site will be found in the `docs/` directory.
+Clone or download the directory, change to the project directory, and run `rmarkdown::render_site()` from your R or R Studio console.
+The rendered site will be found in the `docs/` directory.
