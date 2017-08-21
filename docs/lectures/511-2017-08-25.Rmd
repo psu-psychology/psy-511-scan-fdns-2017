@@ -1,0 +1,209 @@
+---
+title: "511-2017-08-25"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+css: css/ioslides.css
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: true
+    transition: default
+---
+
+```{r set-up, echo=FALSE, error=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+path2figs = '../figs'
+knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
+```
+
+
+## Functional methods
+
+- Recording from the brain 
+- Interfering with the brain 
+- Stimulating the brain
+
+## ￼Recording from the brain
+
+- Single/multi unit recording
+- Microelectrodes
+- Small numbers of nerve cells
+
+## Single/multi-unit Recording {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/multi-unit-recording.jpg"/>
+
+<http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
+</div>
+
+## Single/multi-unit recording
+
+- What does neuron X respond to?
+- Great temporal (ms), spatial resolution (um)
+- Invasive
+- Rarely suitable for humans, but...
+
+## Electrocorticography {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/electrocorticography.jpg"/>
+
+<http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg>
+</div>
+
+## ￼Single-cell studies ask...
+
+- How does firing frequency, timing vary with behavior?
+
+## Positron Emission Tomography (PET)
+
+- Radioactive tracers (glucose, oxygen)
+- Positron decay
+- Experimental condition - control
+- Average across individuals
+
+## ￼More on PET
+
+- Temporal (~ s) and spatial (mm-cm) resolution worse than fMRI
+- Radioactive exposures + mildly invasive 
+- Dose < airline crew exposure in 1 yr
+
+## Functional Magnetic Resonance Imaging (fMRI)
+
+- Neural activity -> local O2 consumption increase
+- Blood Oxygen Level Dependent (BOLD) response
+- Oxygenated vs. deoxygenated hemoglobin
+- Do regional blood O2 levels (and flow) vary with behavior X?
+- Non-invasive, but expensive
+- Moderate but improving (mm) spatial, temporal (~sec) resolution
+- Hemodynamic Response Function
+- 1s delay plus 3-6 s ramp-up
+
+## Hemodynamic Response Function (HRF)
+
+<div class="centered">
+<img src="../figs/hemodynamic-response-function.png"/>
+
+<http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png>
+</div>
+
+## Electroencephalography (EEG)
+
+- How does it work?
+- Electrodes on scalp or brain surface
+- What do we measure?
+- Combined activity of huge # of neurons
+
+## Collecting EEG {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/baby-eeg.jpg"/>
+
+<http://sfari.org/images/images-2013-folder/images-sfn-2013/20131110sfneeg>
+</div>
+
+## EEG
+
+- High temporal, poor spatial resolution
+- Analyze frequency bands
+  + LOW: deep sleep
+  + MIDDLE: Quiet, alert state
+  + HIGH:“Binding” information across senses
+  
+## EEG Frequency {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/eeg-frequency.jpg"/>
+
+<http://www.peakmind.co.uk/images/frequency.jpg>
+</div>
+
+## Event-related potentials (ERPs)
+
+- EEGs time-locked to some event - Averaged over many trials
+
+## ERP {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/erp-technique.gif"/>
+<http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif>
+</div>
+
+## Magneto-encephalography (MEG)
+
+- Like EEG, but measuring magnetic fields
+- High temporal resolution
+- Magnetic field propagates w/o distortion
+
+## MEG {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/meg-machine.jpg"/>
+<http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg>
+</div>
+
+## How do EEG and fMRI relate? {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/logothetis-2001.jpg"/>
+</div>
+
+## Manipulating the brain
+
+- Interfering with it 
+- Stimulating it
+
+## Interfering with the brain
+
+- Nature’s“experiments” 
+- Stroke, head injury, tumor
+- Neuropsychology
+
+## Phineas Gage {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/phineas-gage.png"/>
+<http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png>
+</div>
+
+## ￼Evaluating neuropsychological methods
+
+- Logic: damage impairs performance = region critical for behavior
+- Poor spatial/temporal resolution, limited control
+
+##￼Stimulating the brain
+
+- Electrical (Direct Current Stimulation - DCS)
+- Pharmacological
+- Magnetic (Transcranial magnetic stimulation-TMS)
+
+## Stimulating the brain
+
+- Spatial/temporal resolution?
+- Assume stimulation mimics natural activity?
+
+## Deep brain stimulation as therapy
+
+- Parkinson’s Disease 
+- Depression 
+- Epilepsy
+
+## {.flexbox .vcenter}
+
+<div class="centered">
+<img src="../figs/deep-brain-stimulation.jpg"/>
+<http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/dbs_60715_3.jpg>
+</div>which 
+
+## ￼Simulating the brain
+
+- Computer/mathematical models of brain function
+- Example: neural networks
+- Cheap, noninvasive, can be stimulated or “lesioned”
+
+## ￼Main points
+
+- Multiple structural, functional methods
+- Different levels of spatia

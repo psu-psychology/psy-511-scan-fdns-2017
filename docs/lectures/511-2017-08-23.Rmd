@@ -1,0 +1,288 @@
+---
+title: "511-2017-08-23"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+css: css/ioslides.css
+bibliography: references.bib
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: true
+    transition: default
+---
+
+## PSY 511 {.flexbox .vcenter}
+
+### Foundations of Cognitive and Affective Neuroscience
+
+<div class="centered">
+<img src="img/fesi-source.jpg"/>
+
+#### Rick O. Gilmore, Ph.D.</br>
+Associate Professor of Psychology
+</div>
+
+## Today's topics
+
+- Why neuroscience is harder than physics
+- Course overview
+- Methods in neuroscience
+
+# Why neuroscience is harder than physics
+
+---
+
+<div class="centered">
+<img src="img/psych-harder-1.jpg" width=800px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="img/psych-harder-2.jpg" width=800px/>
+</div>
+
+## ￼What do we need to know to answer the question?
+
+## Brain & behavior are complex, dynamic *systems* with
+
+- Components
+- Interactions
+- Forces/influences
+- Boundaries
+- Inputs/outputs/processes
+
+## Systems...
+
+- "Behave" or change state across time
+- Return to starting state
+- Appear to be regulated, controlled, influenced by feedback loops
+
+## May be thought of as [networks](https://en.wikipedia.org/wiki/Network_science)
+
+<div class="centered">
+<a href="https://source.wustl.edu/2013/08/brain-flexible-hub-network-helps-humans-adapt/">
+<img src="https://source.wustl.edu/wp-content/uploads/2013/08/ColeCoverFlexHub470x340.jpg" height=450px>
+</a>
+</div>
+
+## Studying systems is hard because...
+
+- Single parts -> multiple functions
+- Single functions -> multiple parts
+- Change structure/function over time (learning, development)
+- Biological systems not "designed" like human-engineered ones
+- Measuring what is being exchanged? What is being controlled? 
+
+# Course overview
+
+## ￼Goals
+
+- Master fundamentals of neuroscientific concepts and facts
+- Prepare to read primary source literature in behavioral, cognitive, affective, and clinical neuroscience
+
+## Structure
+
+<https://github.com/psu-psychology/psy-511-scan-fdns>
+
+## Questions
+
+- What is the basic plan of the nervous system?
+- How do neurons work?
+- How do neurons connected in networks achieve behavioral goals?
+- How does the nervous system develop? How has it evolved?
+
+## Approach
+
+### Brain architecture (neuroanatomy)
+### Brain function (neurophysiology)
+### Brain communication (neurochemistry)
+### Changes over evolutionary and developmental time
+
+## Approach
+
+- The nervous system as information processing system
+- **Inputs**
+    - From environment, body, brain
+- **Processing**
+    - Current inputs + brain state + body state + possible future states...
+    - Stored information
+    - Physiological & behavioral goals
+
+---
+
+- **Outputs**
+    - To brain, body, environment
+  
+## Cajal/Swanson Architecture {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/swanson-fig-7.5.jpg"/>
+</div>
+
+# Neuroscience methods
+
+## Evaluating methods 
+
+### What is the question?
+
+- Structure X -> Structure Y
+- Structure X -> Function Y
+
+### What are we measuring?
+
+- Structure
+- Activity
+
+## Evaluating methods
+
+### Strengths & Weaknesses
+
+- Cost
+- Invasiveness
+- Spatial/temporal resolution
+
+## Spatial resolution {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/churchland-levels-of-analysis.gif"/>
+
+<http://ai.ato.ms/MITECS/Images/churchland.figure1.gif>
+</div>
+
+## Types of methods
+
+### Structural 
+
+- Anatomy
+- Connectivity/connectome
+
+### Functional (next time)
+
+- What does it do?
+- Physiology/Activity
+
+## ￼Mapping structures
+
+- Cell/axon stains
+- Golgi stain -- whole cells
+- Cellular distribution, concentration, microanatomy
+
+---
+
+<div class="centered">
+<img src="img/golgi-stain.jpg" height="400px"/>
+
+<http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg>
+</div>
+
+## Mapping structures
+
+￼- Computed axial tomography (CAT), CT
+- X-ray based
+
+---
+
+<div class="centered">
+<img src="img/tomography.png" height="400px"/>
+
+<http://img.tfd.com/mk/T/X2604-T-22.png>
+</div>
+
+## Tomography {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/cat-scan-pineapple.jpg" height="400px"/>
+
+<http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg>
+</div>
+
+## Magnetic Resonance Imaging
+
+- Magnetic resonance
+- Protons have spin
+- Some substances, like $H$, have strong magnetic moment
+- Align with strong magnetic field
+- When perturbed, speed of realignment varies by tissue
+- Realignment gives off radio frequency (RF) signals
+- Strength of RF ~ density
+
+## MRI {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/mri-steps.jpg"/>
+
+<http://s.hswstatic.com/gif/mri-steps.jpg>
+</div>
+
+## Structural MRI
+
+- Tissue density/type differences
+- Gray vs. white - Axon fibers
+- Spectroscopy
+- Region sizes/volumes (volume-based morphometry or VBM)
+
+---
+
+Volume differences in schizophrenic patients vs. controls
+<div class="centered">
+<img src="https://openi.nlm.nih.gov/imgs/512/130/2927029/PMC2927029_mp2009146f1.png" height=450px>
+
+[@Pomarol-Clotet2010-tq]
+</div>
+
+## What is the wiring diagram ("connectome")?
+
+## Retrograde (output -> input) vs. anterograde (input -> output) tracers
+
+<div class="centered">
+<img src="img/retrograde-anterograde-tracers.png" height=450px/>
+
+<http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allowfullscreen></iframe>
+
+## Diffusion Tensor Imaging (DTI)
+
+- Structural MRI technique
+- Diffusion tensor: measurement of spatial pattern of $H_2O$ diffusion in small volume
+- Uniform ("isotropic") vs. non-uniform ("anisotropic")
+- Strong anisotropy suggests large # of axons with similar orientations (fiber tracts)
+
+---
+
+<div class="centered">
+<img src="https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg"/>
+</div>
+
+## Connectome as matrix
+
+<div class="centered">
+<img src="https://www.neuroscienceblueprint.nih.gov/connectome/NIH_Functional-Connectivity-Matrix-full.png"/>
+</div>
+
+---
+
+<div class="centered">
+<img src="http://www.humanconnectome.org/storage/app/media/news/2015/09/CCA_mode.jpg" height=500px>
+</div>
+
+## ￼Main points
+
+- Psychology is harder than physics
+- Understanding brain/behavior relations requires a diverse toolkit
+
+## Your turn
+
+1. Pick two papers you want to read and (better) understand
+    - Email me APA formatted citation (with DOIs)
+    - Indicate three concepts/terms you are especially interested in understanding
+2. Choose a behavior or mental state you want to (better) understand
+    - Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved. 
+
+## References {.smaller}

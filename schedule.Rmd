@@ -12,14 +12,16 @@ title: "Schedule"
     + Structure of the course
     + Why biological psychology? Read: BW 1
     + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
-- Supplemental Materials
+- Materials
+    + Lecture notes | [HTML slides](lectures/5-11-2017-08-23.html) |
     + More on [MRI physics](https://www.youtube.com/watch?v=Ok9ILIYzmaY)
 
 ### Fri, Aug 25
 
 - Topics
     + Methods in neuroscience, BW 2:49-55,
-- Supplemental Materials
+- Materials
+    <!-- + Lecture notes | [HTML slides](lectures/5-11-2017-08-25.html) | -->
     + <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
     + Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in neurosciences, 40(4), 208–218. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.02.004>
     + Logothetis, N. K., Pauls, J., Augath, M., Trinath, T., & Oeltermann, A. (2001). Neurophysiological investigation of the basis of the fMRI signal. Nature, 412(6843), 150–157. Retrieved January 20, 2016, from <http://www.nature.com/nature/journal/v412/n6843/abs/412150a0.html>

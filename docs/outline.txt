@@ -25,11 +25,14 @@
 		- Bottom-up vs. top-down
 		- Modular vs. distributed processing
 	- Representations
+		- Localist vs. distributed
 - Networks, systems
 	- Nodes
 	- Connections
 	- Multivariate influences
 	- Flow, network connectivity/segregation
+- Spatial dimensions of phenomena, measures
+- Temporal dimensions of phenomena, measures
 - Temporal dimensions of causality (Sapolsky)
 	- Nervous system activity
 	- Perception/action
@@ -49,6 +52,14 @@
 		- Internal psychological states
 	- Biological
 		- Psychophys
+			- HR, resp, pulse O2
+			- EMG, GSR
+			- EGG
+		- Endocrine
+			- Blood
+			- Saliva
+			- Sweat
+			- Excreta
 		- Brain response
 			- EEG/MEG
 			- Blood flow, O2
@@ -61,3 +72,4 @@
 	- Developmental/plasticity
 	- Socio-cultural
 - Open neuroscience
+- Big data neuroscience
