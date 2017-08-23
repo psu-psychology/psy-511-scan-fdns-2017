@@ -20,7 +20,7 @@ output:
 <div class="centered">
 <img src="img/fesi-source.jpg"/>
 
-#### Rick O. Gilmore, Ph.D.</br>
+Rick O. Gilmore, Ph.D.</br>
 Associate Professor of Psychology
 </div>
 
