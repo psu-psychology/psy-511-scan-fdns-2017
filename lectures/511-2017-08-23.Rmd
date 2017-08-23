@@ -68,6 +68,12 @@ Associate Professor of Psychology
 </a>
 </div>
 
+---
+
+<div class="centered">
+<img src="https://stats.idre.ucla.edu/wp-content/uploads/2016/02/sem_1.png" height=500px>
+</div>
+
 ## Studying systems is hard because...
 
 - Single parts -> multiple functions
@@ -85,7 +91,7 @@ Associate Professor of Psychology
 
 ## Structure
 
-<https://github.com/psu-psychology/psy-511-scan-fdns>
+<https://psu-psychology.github.io/psy-511-scan-fdns-2017>
 
 ## Questions
 
@@ -201,10 +207,10 @@ Associate Professor of Psychology
 
 ## Magnetic Resonance Imaging
 
-- Magnetic resonance
-- Protons have spin
-- Some substances, like $H$, have strong magnetic moment
-- Align with strong magnetic field
+- Magnetic resonance a property of some isotopes and complex molecules
+- In magnetic field, absorb and release radio frequency energy
+- Hydrogen, common in water & fat, is one
+- Aligns with strong magnetic field
 - When perturbed, speed of realignment varies by tissue
 - Realignment gives off radio frequency (RF) signals
 - Strength of RF ~ density
@@ -235,6 +241,20 @@ Volume differences in schizophrenic patients vs. controls
 
 ## What is the wiring diagram ("connectome")?
 
+<div class="centered">
+<img src="https://i.stack.imgur.com/2OT3B.png" height=450px>
+</div>
+
+<div class="notes">
+The idea is analogous to electronics. We want the schematic. Without the schematic, we can't really tell what the thing does.
+</div>
+
+---
+
+<iframe src="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268" height=500 width=800>
+</iframe>
+
+
 ## Retrograde (output -> input) vs. anterograde (input -> output) tracers
 
 <div class="centered">
@@ -253,6 +273,26 @@ Volume differences in schizophrenic patients vs. controls
 - Diffusion tensor: measurement of spatial pattern of $H_2O$ diffusion in small volume
 - Uniform ("isotropic") vs. non-uniform ("anisotropic")
 - Strong anisotropy suggests large # of axons with similar orientations (fiber tracts)
+
+---
+
+<div class="centered">
+<img src="http://1.bp.blogspot.com/-YO3h0cRqTEc/UIRKEC_0N8I/AAAAAAAABQs/dEPzCbcyuCo/s1600/FA_tensor.png" height=500px>
+</div>
+
+<div class="notes">
+Here's an illustration of what a tensor looks like. You can see an isotropic and an anisotropic tensor.
+</div>
+
+---
+
+<div class="centered">
+<img src="http://4.bp.blogspot.com/-j3_rRdZXx0Q/VQXD0vGD8uI/AAAAAAAACr0/MYTD4MhC8rY/s1600/tractography_2014%2Bcopy.png" width=800px>
+</div>
+
+<div class="notes">
+And here's how we go from a tensor to estimating the pathway of a fiber tract.
+</div>
 
 ---
 
