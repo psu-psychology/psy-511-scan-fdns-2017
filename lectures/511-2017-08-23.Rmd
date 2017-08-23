@@ -251,9 +251,9 @@ The idea is analogous to electronics. We want the schematic. Without the schemat
 
 ---
 
-<iframe src="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268" height=500 width=800>
-</iframe>
-
+<div class="centered">
+<img src="img/jonas-kording-2017.jpg" height=500>
+</div>
 
 ## Retrograde (output -> input) vs. anterograde (input -> output) tracers
 
