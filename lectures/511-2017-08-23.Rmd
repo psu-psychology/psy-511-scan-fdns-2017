@@ -184,6 +184,38 @@ Associate Professor of Psychology
 <http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg>
 </div>
 
+---
+
+<div class="centered">
+<img src="https://www.hitobiotec.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/i/hito_golgi_staining_10.jpg" height=500px>
+</div>
+
+<div class="notes">
+Here's a pretty one of the hippocampus.
+</div>
+
+---
+
+<div class="centered">
+<img src="http://wam.umn.edu/wp-content/uploads/2016/12/WAM_Cajal_m1673.jpg">
+
+<http://wam.umn.edu/calendar/cajal/>
+</div>
+
+<div class="notes">
+And here is one from Santiago Ramon y Cajal.
+</div>
+
+## Nissl stain
+
+<div class="centered">
+<img src="https://i.pinimg.com/originals/24/ba/58/24ba5870a0b3ac2ce8e3620853e12c8b.jpg" height=500px>
+</div>
+
+<div class="notes">
+Here's a Nissl-stained section of the macaque brain. It stains only cell bodies, but the density of staining tells us where there are lots of cells and where there are fewer.
+</div>
+
 ## Mapping structures
 
 ￼- Computed axial tomography (CAT), CT
@@ -205,6 +237,16 @@ Associate Professor of Psychology
 <http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg>
 </div>
 
+---
+
+<div class="centered">
+<img src="http://www.uwmedicine.org/health-library/PublishingImages/CT-Intracerebral-Hemorrhage.jpg" height=500px>
+</div>
+
+<div class="notes">
+Here's a CT image of two brains, the one on the right has an intracerebral hemorrhage.
+</div>
+
 ## Magnetic Resonance Imaging
 
 - Magnetic resonance a property of some isotopes and complex molecules
@@ -223,20 +265,55 @@ Associate Professor of Psychology
 <http://s.hswstatic.com/gif/mri-steps.jpg>
 </div>
 
+
 ## Structural MRI
 
 - Tissue density/type differences
 - Gray vs. white - Axon fibers
 - Spectroscopy
-- Region sizes/volumes (volume-based morphometry or VBM)
+- Region sizes/volumes
 
 ---
+
+<div class="centered">
+<img src="https://previews.123rf.com/images/ultimagaina/ultimagaina1405/ultimagaina140500005/28078449-Sequence-of-vertical-sections-of-a-human-brain-MRI-scan-Stock-Photo.jpg" height=500px>
+</div>
+
+<div class="notes">
+Here is an illustration of the different slices of an image sequence.
+</div>
+
+---
+
+<div class="centered">
+<img src="https://sites.google.com/a/wisc.edu/neuroradiology/_/rsrc/1468741104534/image-acquisition/the-basics/MR_composite.png?height=307&width=400" height=500px>
+</div>
+
+<div class="notes">
+Here's an illustration of how different RF pulse sequences and decoding schemes can reveal different patterns of structure.
+</div>
+
+---
+
+<div class="centered">
+<img src="https://images.radiopaedia.org/images/556479/0dc08a48892084b4c3b717feb9dfa4_big_gallery.jpg" height=500px>
+</div>
+
+<div class="notes">
+Here's an example of MR spectroscopy showing the concentrations of several different metabolites in a large voxel of brain tissue.
+</div>
+
+## Voxel-based morphometry (VBM)
 
 Volume differences in schizophrenic patients vs. controls
 <div class="centered">
 <img src="https://openi.nlm.nih.gov/imgs/512/130/2927029/PMC2927029_mp2009146f1.png" height=450px>
 
 [@Pomarol-Clotet2010-tq]
+</div>
+
+<div class="notes">
+And here's an illustration of the use of morphometric techniques. The colored portions are statistical maps placed on top of a base structural map. The statistical maps provide information about the comparison in brain volumes between patients and controls in those areas.
 </div>
 
 ## What is the wiring diagram ("connectome")?

@@ -1,28 +1,53 @@
 ---
-title: "511-2017-08-25"
+title: "511-2017-08-25-functional-methods"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 css: css/ioslides.css
+bibliography: bib/bibliography.bib
 output:
   ioslides_presentation:
     self_contained: false
     lib_dir: libs
     widescreen: true
-    incremental: true
+    incremental: false
     transition: default
 ---
 
 ```{r set-up, echo=FALSE, error=FALSE, include=FALSE, warning=FALSE, message=FALSE}
-path2figs = '../figs'
+path2figs = 'img'
 knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 ```
 
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allowfullscreen></iframe>
+
+## Today's topics
+
+- Spatial and temporal scales
+- A bit more about structural methods
+- Functional methods
+
+## {.smaller}
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</a>
+
+[[@Sejnowski2014-aa]](http://doi.org/10.1038/nn.3839)
+</div>
+
+## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-NMfp13Uug" frameborder="0" allowfullscreen></iframe>
 
 ## Functional methods
 
 - Recording from the brain 
 - Interfering with the brain 
 - Stimulating the brain
+- Simulating the brain
 
 ## ￼Recording from the brain
 
@@ -30,10 +55,10 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 - Microelectrodes
 - Small numbers of nerve cells
 
-## Single/multi-unit Recording {.flexbox .vcenter}
+## Single/multi-unit Recording {.flexbox .vcenter .smaller}
 
 <div class="centered">
-<img src="../figs/multi-unit-recording.jpg"/>
+<img src="img/multi-unit-recording.jpg"/>
 
 <http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
 </div>
@@ -45,19 +70,33 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 - Invasive
 - Rarely suitable for humans, but...
 
-## Electrocorticography {.flexbox .vcenter}
+## [Electrocorticography (ECoG)](https://en.wikipedia.org/wiki/Electrocorticography)
 
 <div class="centered">
-<img src="../figs/electrocorticography.jpg"/>
+<a href="http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg">
+<img src="http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg" height=450px/>
+</a>
+</div>
 
-<http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg>
+---- 
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HluVToAamXY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+Story about child who underwent ECoG surgery.
 </div>
 
 ## ￼Single-cell studies ask...
 
 - How does firing frequency, timing vary with behavior?
 
-## Positron Emission Tomography (PET)
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GHLBcCv4rqk" frameborder="0" allowfullscreen></iframe>
+
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
 
 - Radioactive tracers (glucose, oxygen)
 - Positron decay
@@ -72,21 +111,63 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 
 ## Functional Magnetic Resonance Imaging (fMRI)
 
-- Neural activity -> local O2 consumption increase
+- Neural activity -> local $O_2$ consumption increase
 - Blood Oxygen Level Dependent (BOLD) response
 - Oxygenated vs. deoxygenated hemoglobin
-- Do regional blood O2 levels (and flow) vary with behavior X?
+- Do regional blood $O_2$ levels (and flow) vary with behavior X?
+
+## Evaluating fMRI
+
 - Non-invasive, but expensive
 - Moderate but improving (mm) spatial, temporal (~sec) resolution
-- Hemodynamic Response Function
+- Hemodynamic Response Function (HRF)
 - 1s delay plus 3-6 s ramp-up
 
-## Hemodynamic Response Function (HRF)
+## Hemodynamic Response Function (HRF) {.smaller}
 
 <div class="centered">
-<img src="../figs/hemodynamic-response-function.png"/>
+<img src="img/hemodynamic-response-function.png"/>
 
 <http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png>
+</div>
+
+---
+
+<div class="centered">
+Generate "predicted" BOLD response to event; compare to actual
+
+<img src="http://mriquestions.com/uploads/3/4/5/7/34572113/convolution-of-3-events_orig.gif" width=800px>
+</div>
+
+---
+
+<div class="centered">
+<img src="http://images.slideplayer.com/29/9493553/slides/slide_4.jpg" height=500px>
+
+</div>
+
+## I want some power... {.smaller}
+
+<div class="centered">
+<img src="http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2000797.g003&type=large" width=800px>
+
+[@Szucs2017-fc]
+</div>
+
+<div class="notes">
+As Szucs and Ioannides have shown based on an analysis of more than 10,000 papers in the cognitive neuroscience literature, sample sizes are small, and the probability of false negatives is high, especially for small to medium effect sizes.
+</div>
+
+---
+
+<div class="centered">
+> "Assuming a realistic range of prior probabilities for null hypotheses, false report probability is likely to exceed 50% for the whole literature."
+
+<small>([Szucs & Ioannides, 2017](http://doi.org/10.1371/journal.pbio.2000797))</small>
+</div>
+
+<div class="notes">
+So, this means that we may not know what we think we know.
 </div>
 
 ## Electroencephalography (EEG)
@@ -94,12 +175,23 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 - How does it work?
 - Electrodes on scalp or brain surface
 - What do we measure?
+    - Voltage differences between source and reference electrode
 - Combined activity of huge # of neurons
 
-## Collecting EEG {.flexbox .vcenter}
+## How does EEG arise?
+
+- Current/voltage gradients between *apical* (near surface) dendrites and *basal* (deeper) dendrites and cell body/soma
 
 <div class="centered">
-<img src="../figs/baby-eeg.jpg"/>
+<img src="http://neurofeedbackalliance.org/wp-content/uploads/2016/10/Dipole.jpg"
+</br>
+<img src="http://www.ijbem.org/volume4/number2/nfigs2/image054.jpg">
+</div>
+
+## Collecting EEG {.flexbox .vcenter .smaller}
+
+<div class="centered">
+<img src="img/baby-eeg.jpg"/>
 
 <http://sfari.org/images/images-2013-folder/images-sfn-2013/20131110sfneeg>
 </div>
@@ -108,46 +200,56 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 
 - High temporal, poor spatial resolution
 - Analyze frequency bands
-  + LOW: deep sleep
-  + MIDDLE: Quiet, alert state
-  + HIGH:“Binding” information across senses
+  + LOW: deep sleep ($\delta$ band)
+  + MIDDLE: Quiet, alert state ($\alpha$ band)
+  + HIGH: “Binding” information across senses? ($\gamma$ band)
   
-## EEG Frequency {.flexbox .vcenter}
+## EEG Frequency {.flexbox .vcenter .smaller}
 
 <div class="centered">
-<img src="../figs/eeg-frequency.jpg"/>
+<img src="img/eeg-frequency.jpg"/>
 
 <http://www.peakmind.co.uk/images/frequency.jpg>
 </div>
 
-## Event-related potentials (ERPs)
+## [Event-related potentials (ERPs)](https://en.wikipedia.org/wiki/Event-related_potential)
 
 - EEGs time-locked to some event - Averaged over many trials
 
-## ERP {.flexbox .vcenter}
+## ERPs
 
 <div class="centered">
-<img src="../figs/erp-technique.gif"/>
-<http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif>
+<a href="http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif">
+<img src="http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif" height=500px/>
+</a>
 </div>
+
+## [Brain Computer Interface (BCI)](http://computer.howstuffworks.com/brain-computer-interface.htm) {.smaller}
+
+<div class="centered">
+<img src="http://s.hswstatic.com/gif/brain-computer-interface-3.gif"/>
+
+<http://s.hswstatic.com/gif/brain-computer-interface-3.gif>
+</div>
+
 
 ## Magneto-encephalography (MEG)
 
 - Like EEG, but measuring magnetic fields
 - High temporal resolution
 - Magnetic field propagates w/o distortion
+- Requires shielded chamber (to keep out strong magnetic fields)
 
 ## MEG {.flexbox .vcenter}
 
 <div class="centered">
-<img src="../figs/meg-machine.jpg"/>
-<http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg>
+<img src="http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg"/ height=500px>
 </div>
 
 ## How do EEG and fMRI relate? {.flexbox .vcenter}
 
 <div class="centered">
-<img src="../figs/logothetis-2001.jpg"/>
+<img src="img/logothetis-2001.jpg"/>
 </div>
 
 ## Manipulating the brain
@@ -161,19 +263,24 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 - Stroke, head injury, tumor
 - Neuropsychology
 
-## Phineas Gage {.flexbox .vcenter}
+## Phineas Gage {.flexbox .vcenter .smaller}
 
 <div class="centered">
-<img src="../figs/phineas-gage.png"/>
-<http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png>
+<img src="http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png" height=500px/>
+</div>
+
+# {.flexbox .vcenter .smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/en/9/98/The_Man_Who_Mistook_His_Wife_for_a_Hat_cover.jpg">
 </div>
 
 ## ￼Evaluating neuropsychological methods
 
 - Logic: damage impairs performance = region critical for behavior
-- Poor spatial/temporal resolution, limited control
+- Weaker spatial/temporal resolution
 
-##￼Stimulating the brain
+## ￼Stimulating the brain
 
 - Electrical (Direct Current Stimulation - DCS)
 - Pharmacological
@@ -190,12 +297,17 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 - Depression 
 - Epilepsy
 
-## {.flexbox .vcenter}
+## {.flexbox .vcenter .smaller}
 
 <div class="centered">
-<img src="../figs/deep-brain-stimulation.jpg"/>
+<img src="img/deep-brain-stimulation.jpg"/>
+
 <http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/dbs_60715_3.jpg>
-</div>which 
+</div>
+
+## Optogenetics more closely mimics brain activity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I64X7vHSHOE" frameborder="0" allowfullscreen></iframe>
 
 ## ￼Simulating the brain
 
@@ -203,7 +315,38 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 - Example: neural networks
 - Cheap, noninvasive, can be stimulated or “lesioned”
 
+---
+
+<div class="centered">
+Blue Brain project
+
+<img src="http://www.nature.com/nrn/journal/v7/n2/images/nrn1848-f4.jpg">
+
+[Markram, 2006](http://doi.org/10.1038/nrn1848)
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gn4nRCC9TwQ" frameborder="0" allowfullscreen></iframe>
+
 ## ￼Main points
 
 - Multiple structural, functional methods
-- Different levels of spatia
+- Different levels of spatial & temporal analysis
+- Functional tools have different strengths & weaknesses
+
+<!-- Scrolling final reference page -->
+<!-- http://stackoverflow.com/q/38260799 -->
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):before {
+  background: none;
+  }
+slides > slide:not(.nobackground):after {
+  content: '';
+  background: none;
+  }
+}
+</style>
+
+## References {.smaller}
