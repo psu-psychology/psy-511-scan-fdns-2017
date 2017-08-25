@@ -32,7 +32,7 @@ knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 
 <div class="centered">
 <a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
-<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" height="550px">
 </a>
 
 [[@Sejnowski2014-aa]](http://doi.org/10.1038/nn.3839)
@@ -113,20 +113,30 @@ Story about child who underwent ECoG surgery.
 
 - Neural activity -> local $O_2$ consumption increase
 - Blood Oxygen Level Dependent (BOLD) response
-- Oxygenated vs. deoxygenated hemoglobin
-- Do regional blood $O_2$ levels (and flow) vary with behavior X?
+- Oxygenated vs. deoxygenated hemoglobin ≠ magnetic susceptibility
+- How do regional blood $O_2$ levels (& flow & volume) vary with behavior X?
+- MRI "signals" relate to the speed (1/T) of "relaxation" of the perturbed nuclei to their state of alignment with the main ($B_0$) magnetic field.
+- Imaging protocols emphasize different time constants of this relaxation ($T1$, $T2$, $T2^*$); $T^2*$ for BOLD imaging
 
 ## Evaluating fMRI
 
 - Non-invasive, but expensive
 - Moderate but improving (mm) spatial, temporal (~sec) resolution
-- Hemodynamic Response Function (HRF)
-- 1s delay plus 3-6 s ramp-up
+- Spatial limits due to 
+    - field strength (@ 3T ~3mm^3 voxel)
+    - Physiology of hemodynamic response
+    
+---
+
+- Temporal limits due to
+    - Hemodynamic Response Function (HRF): ~ 1s delay plus 3-6 s ramp-up
+    - Speed of image acquisition
+- *Indirect* measure of neural activity
 
 ## Hemodynamic Response Function (HRF) {.smaller}
 
 <div class="centered">
-<img src="img/hemodynamic-response-function.png"/>
+<img src="img/hemodynamic-response-function.png" height=450px/>
 
 <http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png>
 </div>
@@ -146,12 +156,20 @@ Generate "predicted" BOLD response to event; compare to actual
 
 </div>
 
+## Higher field strengths (3 Tesla vs. 7 Tesla) {.smaller}
+
+<div class="centered">
+<img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3629563/bin/gr3.jpg" height=400px>
+
+[[@Sladky2013-bu]](http://dx.doi.org/10.1016/j.ejrad.2011.09.025)
+</div>
+
 ## I want some power... {.smaller}
 
 <div class="centered">
 <img src="http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2000797.g003&type=large" width=800px>
 
-[@Szucs2017-fc]
+([Szucs & Ioannides, 2017](http://doi.org/10.1371/journal.pbio.2000797))
 </div>
 
 <div class="notes">
@@ -169,6 +187,11 @@ As Szucs and Ioannides have shown based on an analysis of more than 10,000 paper
 <div class="notes">
 So, this means that we may not know what we think we know.
 </div>
+
+## Reproducibility of workflows
+
+- [[@Gilmore2017-qi]](http://dx.doi.org/10.1111/nyas.13325); [[@Poldrack2017-xc]](http://doi.org/10.1038/nrn.2016.167)
+- [OpenNeuro.org](http://openneuro.org)
 
 ## Electroencephalography (EEG)
 
@@ -238,7 +261,9 @@ So, this means that we may not know what we think we know.
 - Like EEG, but measuring magnetic fields
 - High temporal resolution
 - Magnetic field propagates w/o distortion
+    - But are orthogonal to electric field
 - Requires shielded chamber (to keep out strong magnetic fields)
+- ++ cost vs. EEG
 
 ## MEG {.flexbox .vcenter}
 
@@ -246,11 +271,19 @@ So, this means that we may not know what we think we know.
 <img src="http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg"/ height=500px>
 </div>
 
-## How do EEG and fMRI relate? {.flexbox .vcenter}
+## How do EEG/MEG and fMRI relate? {.flexbox .vcenter}
 
 <div class="centered">
 <img src="img/logothetis-2001.jpg"/>
+
+[[@Logothetis2001-ul]](http://doi.org/10.1038/35084005)
 </div>
+
+## How do EEG/MEG and fMRI relate? {.flexbox .vcenter}
+
+- BOLD fMRI likely reflects presynaptic *input* to area
+- EEG/MEG likely reflects postsynaptic *response* to those inputs
+- [[@Logothetis2001-ul]](http://doi.org/10.1038/35084005) and [[@Logothetis2004-mn]](http://doi.org/10.1146/annurev.physiol.66.082602.092845)
 
 ## Manipulating the brain
 

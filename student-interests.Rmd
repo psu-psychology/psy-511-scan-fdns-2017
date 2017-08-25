@@ -1,0 +1,169 @@
+---
+title: "Student interests"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Julian Scheffer
+
+#### Papers
+
+- Crockett, M. J., Siegel, J. Z., Kurth-Nelson, Z., Dayan, P., & Dolan, R. J. (2017). Moral transgressions corrupt neural representations of value. Nature Neuroscience, 20(6), 879-885. doi:10.1038/nn.4557.
+- Wang, S., Yu, R., Tyszka, J. M., Zhen, S., Kovach, C., Sun, S., ... & Mamelak, A. N. (2017). The human amygdala parametrically encodes the intensity of specific facial emotions and their categorical ambiguity. Nature Communications, 8, 1-13. doi:10.1038/ncomms14821.
+
+#### Concepts
+
+- Computational Modeling
+- Value-Based Decision-Making 
+- Empathy and Compassion
+
+### Alicia Vallorani
+
+#### Papers
+
+- Tóth, B., Urbán, G., Háden, G. P., Márk, M., Török, M., Stam, C. J., & Winkler, I. (2017). Large-scale network organization of EEG functional connectivity in newborn infants. Human brain mapping, 38(8), 4019–4033. Retrieved from http://dx.doi.org/10.1002/hbm.23645
+- Schmälzle, R., Brook O’Donnell, M., Garcia, J. O., Cascio, C. N., Bayer, J., Bassett, D. S., Vettel, J. M., et al. (2017). Brain connectivity dynamics during social interaction reflect social network structure. Proceedings of the National Academy of Sciences of the United States of America, 114(20), 5153–5158. Retrieved from http://dx.doi.org/10.1073/pnas.1616130114
+
+#### Concepts
+
+I have a basic understanding of functional connectivity, but I would like to understand it at a deeper level. What computations are used to assess connectivity and networks, etc.? Also, what are some key differences between EEG and MRI functional connectivity? Do they provide us with comparable information? Or are they significantly different as in ERP vs fMRI?
+
+#### Information processing model
+
+Early Peer Rejection
+
+I imagine in some cases this may function as a sort of feedback loop (Ladd, 2006). Some children may be more sensitive to or aroused by inputs from the environment. This may look like hyperactivity in the amygdala and/or reduced top-down control from prefrontal cortical structures. Due to their sensitivity to the environment, they may be less likely to approach novelty, including new social situations (Fox, Snidman, Haas, Degnan, & Kagan, 2015). This output behavior impacts their environment as peers will
+be more likely to form relationships with other children who are engaging in new social situations. The sensitive child may recognize these signs of impending exclusion which may again elicit internal responses that may exacerbate withdrawal outputs. As the cycle continues, the sensitive child may miss out on important foundational childhood social experiences and thus be slower to recognize or act upon social cues setting them on a course that may eventually lead to peer rejection.
+
+### Jungtae Soh
+
+#### Papers
+
+- Das, J. P., Kirby, J., & Jarman, R. F. (1975). Simultaneous and successive
+synthesis: An alternative model for cognitive abilities.
+http://dx.doi.org/10.1037/h0076163
+- Nicholls, M. E., & Cooper, C. J. (1991). Hemispheric differences in the
+rates of information processing for simple non-verbal stimuli. Neuropsychologia, 29(7), 677-684. https://doi.org/10.1016/0028-3932(91)90101-D
+
+#### Concepts
+
+- left visual field-right hemisphere (LVF-RH), right visual field-left hemisphere
+(RVF-LH)
+- information integration
+
+### Yushuang Liu
+
+#### Papers
+
+- Takashima, A., Bakker, I., van Hell, J. G., Janzen, G., & McQueen, J. M. (2014). Richness of information about novel words influences how episodic and semantic memory networks interact during lexicalization. Neuroimage, 84, 265-278. doi: 10.1016/j.neuroimage.2013.08.023
+- Takashima, A., Bakker, I., Van Hell, J. G., Janzen, G., & McQueen, J. M. (2017). Interaction between episodic and semantic memory networks in the acquisition and consolidation of novel spoken words. Brain and language, 167, 44-60. doi:10.1016/j.bandl.2016.05.009
+
+#### Concepts
+
+- seed region 
+- psycho-physiological interaction (PPI) analysis
+- the relationship between functional connectivity and structural Connectivity
+
+#### Information processing model
+
+I would like to understand more about how we learn new vocabulary, both in childhood and adulthood. Regarding inputs, we have different aspects of word forms. In general, we have orthographic, phonological, and semantic information of each word. However, we may acquire these words in different ways. For example, we may learn these words in formal classroom setting (i.e., explicit learning), or simply by overhearing some conversations (i.e., implicit learning). Regarding outputs, it matters whether we can spell, pronounce the word, as well as whether we can articulate the meaning. However, as psycholinguistic studies have revealed, whether the recently learnt words can interact dynamically with existing lexicons is another important output of word learning. For example, after you learn a new word, you may know its spelling, pronunciation and meaning pretty well. However, this novel word may be still isolated in your lexical network. Lastly, the computations involved is the most intriguing but also unknown part. Relating to my question of interest, previous research has suggested that the initial encoding of the novel word information happens in the hippocampus. After a period of offline consolidation, the information gets transferred to neocortex as a place for long-term storage. It is also argued that only after this offline consolidation stage, the new lexicon can interact dynamically with existing lexical network. 
+
+### Victoria Spring
+
+#### Papers
+
+- Koster-Hale, J., Saxe, R., Dungan, J., &amp; Young, L. L. (2013). Decoding moral
+judgments from neural representations of intentions. Proceedings of the National
+Academy of Sciences, 110, 5648-5653. doi: 10.1073/pnas.1207992110
+- Lonsdorf, T. B., Golkar, A., Lindström, K. M., Haaker, J., Öhman, A., Schalling,
+M., &amp; Ingvar, M. (2014). BDNF val66met affects neural activation pattern during
+fear conditioning and 24 h delayed fear recall. Social Cognitive and Affective
+Neuroscience, 10, 664-671. https://doi.org/10.1093/scan/nsu102
+
+#### Concepts
+
+- Brain-derived neurotrophic factor (or neurotrophin in general)
+- Multivoxel pattern analysis
+- Gaussian random field theory
+
+#### Information processing model
+
+I take a constructionist approach to emotion (see Lindquist et al., 2012), and
+would love to better understand the biological and neural functions involved in
+emotional experience. Emotion involves both internal and external inputs.
+Externally, an individual observes the social environment (including others’
+facial expressions and words) and non-social environment (threats, appetitive
+stimuli, etc.). They also perceive external stimuli such as sounds, sights, smells,
+etc. in the environment which may be emotionally evocative (e.g., a bad smell
+may evoke disgust). Internal inputs include interoceptive sensations such as
+pain, temperature, hunger, valence, and signals of arousal such as increased
+heartbeat and respiration. Internal inputs also include nonphysiological inputs
+like personal learning history with an emotion or emotion-evoking experience
+(e.g., past fear conditioning) and conceptual knowledge about emotion drawn
+from cultural experience, norms, language used to describe an internal
+experience, etc. These internal and external inputs interact in iterative feedback
+loops to produce an emotional experience such as anger, disgust, etc., as
+individuals map their experiences to known emotion concepts. Outputs include
+facial expressions, motor impulses (e.g., approach/avoid/freeze), and also
+perhaps intensification of the emotion if feeling—say-- anger makes one angrier.
+
+### Thomas Crow
+
+#### Papers
+
+- Geller, S. M., & Porges, S. W. (2014). Therapeutic presence: Neurophysiological mechanisms mediating feeling safe in therapeutic relationships. Journal of Psychotherapy Integration, 24(3), 178–192. https://doi.org/10.1037/a0037511
+- Tottenham, N., Hare, T. A., Quinn, B. T., McCarry, T. W., Nurse, M., Gilhooly, T., … Casey, B. (2010). Prolonged institutional rearing is associated with atypically larger amygdala volume and difficulties in emotion regulation. Developmental Science, 13(1), 46. https://doi.org/10.1111/j.1467-7687.2009.00852.x
+
+#### Concepts
+
+- Emotion regulation
+- Empathy/Intersubjectivity/the feeling of being connected or attuned to others (especially in psychotherapy)
+- Developmental origins of these two aforementioned capacities
+
+#### Information processing model
+
+Rage/extreme anger
+
+- Inputs could be: 
+    - External: a person aggressing towards the subject; something annoying/frustrating in the environment; a limiting environment
+    - Internal: certain thoughts or memories
+- Computations:
+    - Appraisal of the situation as threatening, limiting, or somehow goal-blocking
+- Output
+    - Subjective experience of anger; muscle tension and other ANS arousal; behaviors like yelling, stomping, hitting, cutting, etc.
+    
+### Siyuan Huang
+
+#### Papers
+
+- Koob, G. F. &amp; Volkow, N. D. (2016). Neurobiology of addiction: A neurocircuitry
+analysis. The Lancet Psychiatric, 3(8), 760-770. Doi: 10.1016/S2215-
+0366(16)00104-8
+- Donamayor, N. Marco-Pallares, J. Heldmann, M., Schoenfeld, M. A. Munte, T. F.
+(2011). Temporal dynamics of reward processing revealed by
+magnetoencephalography. Human Brain Mapping, 32(12), 2228-2240. Doi:
+10.1002/hbm.21184
+
+#### Concepts
+
+- addiction
+- reward processing
+- mesocorticolimbic dopamine system
+
+#### Information processing model
+
+Addictive behavior
+
+For example, an alcohol addict happens to be exposed to an alcohol-related
+cue in his daily life, such as seeing an alcohol shop in the street (inputs). This alcohol cue quickly induces enhanced activations in his prefrontal cortex mediated by
+glutamate, and his mesolimbic system (e.g., striatum, amygdala) mediated by
+dopamine, thereby stimulating strong craving for alcohol in him. In addition, the
+addict also experiences difficulties in inhibiting his alcohol-seeking impulses due to a
+suppressed GABA-mediated activity in the prefrontal cortex (computations). These
+neuroadaptations are a long-term consequence of his exposure to alcohol. As a result,
+the addict goes into the alcohol shop and buys a dozen beers, and finishes them in that
+single night at home (outputs), although he just decided to abstain from drinking. This
+addict cycle prevents him from successful alcohol cessation and maintains his
+addictive behaviors.

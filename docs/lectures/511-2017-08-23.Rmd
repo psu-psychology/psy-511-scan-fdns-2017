@@ -3,7 +3,7 @@ title: "511-2017-08-23"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 css: css/ioslides.css
-bibliography: references.bib
+bibliography: bib/references.bib
 output:
   ioslides_presentation:
     self_contained: false
@@ -197,7 +197,7 @@ Here's a pretty one of the hippocampus.
 ---
 
 <div class="centered">
-<img src="http://wam.umn.edu/wp-content/uploads/2016/12/WAM_Cajal_m1673.jpg">
+<img src="http://wam.umn.edu/wp-content/uploads/2016/12/WAM_Cajal_m1673.jpg" width=800px>
 
 <http://wam.umn.edu/calendar/cajal/>
 </div>

@@ -11,7 +11,7 @@ title: "Schedule"
 - Topics
     + Structure of the course
     + Why biological psychology? Read: BW 1
-    + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+    + Methods in neuroscience <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 - Materials
     + Lecture notes | [HTML slides](lectures/511-2017-08-23.html) |
     + More on [MRI physics](https://www.youtube.com/watch?v=Ok9ILIYzmaY)
@@ -19,7 +19,7 @@ title: "Schedule"
 ### Fri, Aug 25
 
 - Topics
-    + Methods in neuroscience, BW 2:49-55,
+    + Methods in neuroscience, 2:49-57, 3:84-89.
 - Materials
     + Lecture notes | [HTML slides](lectures/511-2017-08-25.html) |
     + <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>

@@ -94,7 +94,7 @@
       <h1 data-config-title><!-- populated from slide_config.json --></h1>
       <h2 data-config-subtitle><!-- populated from slide_config.json --></h2>
       <p data-config-presenter><!-- populated from slide_config.json --></p>
-            <p style="margin-top: 6px; margin-left: -2px;">2017-08-24 14:53:43</p>
+            <p style="margin-top: 6px; margin-left: -2px;">2017-08-25 11:51:23</p>
           </hgroup>
   </slide>
 
@@ -115,7 +115,7 @@
 </article></slide><slide class=''><hgroup><h2></h2></hgroup><article  id="section" class="smaller">
 
 <div class="centered">
-<p><a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg"> <img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px"> </a></p>
+<p><a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg"> <img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" height="550px"> </a></p>
 
 <p><a href='http://doi.org/10.1038/nn.3839' title=''><span class="cite">(Sejnowski, Churchland, and Movshon 2014)</span></a></p></div>
 
@@ -206,8 +206,10 @@
 <ul>
 <li>Neural activity -&gt; local \(O_2\) consumption increase</li>
 <li>Blood Oxygen Level Dependent (BOLD) response</li>
-<li>Oxygenated vs. deoxygenated hemoglobin</li>
-<li>Do regional blood \(O_2\) levels (and flow) vary with behavior X?</li>
+<li>Oxygenated vs. deoxygenated hemoglobin ≠ magnetic susceptibility</li>
+<li>How do regional blood \(O_2\) levels (&amp; flow &amp; volume) vary with behavior X?</li>
+<li>MRI &quot;signals&quot; relate to the speed (1/T) of &quot;relaxation&quot; of the perturbed nuclei to their state of alignment with the main (\(B_0\)) magnetic field.</li>
+<li>Imaging protocols emphasize different time constants of this relaxation (\(T1\), \(T2\), \(T2^*\)); \(T^2*\) for BOLD imaging</li>
 </ul>
 
 </article></slide><slide class=''><hgroup><h2>Evaluating fMRI</h2></hgroup><article  id="evaluating-fmri">
@@ -215,14 +217,30 @@
 <ul>
 <li>Non-invasive, but expensive</li>
 <li>Moderate but improving (mm) spatial, temporal (~sec) resolution</li>
-<li>Hemodynamic Response Function (HRF)</li>
-<li>1s delay plus 3-6 s ramp-up</li>
+<li>Spatial limits due to
+
+<ul>
+<li>field strength (@ 3T ~3mm^3 voxel)</li>
+<li>Physiology of hemodynamic response</li>
+</ul></li>
+</ul>
+
+</article></slide><slide class=''><hgroup><h2></h2></hgroup><article >
+
+<ul>
+<li>Temporal limits due to
+
+<ul>
+<li>Hemodynamic Response Function (HRF): ~ 1s delay plus 3-6 s ramp-up</li>
+<li>Speed of image acquisition</li>
+</ul></li>
+<li><em>Indirect</em> measure of neural activity</li>
 </ul>
 
 </article></slide><slide class=''><hgroup><h2>Hemodynamic Response Function (HRF)</h2></hgroup><article  id="hemodynamic-response-function-hrf" class="smaller">
 
 <div class="centered">
-<p><img src="img/hemodynamic-response-function.png"/></p>
+<p><img src="img/hemodynamic-response-function.png" height=450px/></p>
 
 <p><a href='http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png' title=''>http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png</a></p></div>
 
@@ -238,12 +256,19 @@
 <div class="centered">
 <p><img src="http://images.slideplayer.com/29/9493553/slides/slide_4.jpg" height=500px></p></div>
 
+</article></slide><slide class=''><hgroup><h2>Higher field strengths (3 Tesla vs. 7 Tesla)</h2></hgroup><article  id="higher-field-strengths-3-tesla-vs.-7-tesla" class="smaller">
+
+<div class="centered">
+<p><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3629563/bin/gr3.jpg" height=400px></p>
+
+<p><a href='http://dx.doi.org/10.1016/j.ejrad.2011.09.025' title=''><span class="cite">(Sladky et al. 2013)</span></a></p></div>
+
 </article></slide><slide class=''><hgroup><h2>I want some power&#8230;</h2></hgroup><article  id="i-want-some-power..." class="smaller">
 
 <div class="centered">
 <p><img src="http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2000797.g003&type=large" width=800px></p>
 
-<p><span class="cite">(Szucs and Ioannidis 2017)</span></p></div>
+<p>(<a href='http://doi.org/10.1371/journal.pbio.2000797' title=''>Szucs &amp; Ioannides, 2017</a>)</p></div>
 
 <aside class='note'><section><p>As Szucs and Ioannides have shown based on an analysis of more than 10,000 papers in the cognitive neuroscience literature, sample sizes are small, and the probability of false negatives is high, especially for small to medium effect sizes.</p></section></aside>
 
@@ -257,6 +282,13 @@
 <p><small>(<a href='http://doi.org/10.1371/journal.pbio.2000797' title=''>Szucs &amp; Ioannides, 2017</a>)</small></p></div>
 
 <aside class='note'><section><p>So, this means that we may not know what we think we know.</p></section></aside>
+
+</article></slide><slide class=''><hgroup><h2>Reproducibility of workflows</h2></hgroup><article  id="reproducibility-of-workflows">
+
+<ul>
+<li><a href='http://dx.doi.org/10.1111/nyas.13325' title=''><span class="cite">(Gilmore et al. 2017)</span></a>; <a href='http://doi.org/10.1038/nrn.2016.167' title=''><span class="cite">(Poldrack et al. 2017)</span></a></li>
+<li><a href='http://openneuro.org' title=''>OpenNeuro.org</a></li>
+</ul>
 
 </article></slide><slide class=''><hgroup><h2>Electroencephalography (EEG)</h2></hgroup><article  id="electroencephalography-eeg">
 
@@ -328,8 +360,13 @@
 <ul>
 <li>Like EEG, but measuring magnetic fields</li>
 <li>High temporal resolution</li>
-<li>Magnetic field propagates w/o distortion</li>
+<li>Magnetic field propagates w/o distortion
+
+<ul>
+<li>But are orthogonal to electric field</li>
+</ul></li>
 <li>Requires shielded chamber (to keep out strong magnetic fields)</li>
+<li>++ cost vs. EEG</li>
 </ul>
 
 </article></slide><slide class=''><hgroup><h2>MEG</h2></hgroup><article  id="meg" class="flexbox vcenter">
@@ -337,10 +374,20 @@
 <div class="centered">
 <p><img src="http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg"/ height=500px></p></div>
 
-</article></slide><slide class=''><hgroup><h2>How do EEG and fMRI relate?</h2></hgroup><article  id="how-do-eeg-and-fmri-relate" class="flexbox vcenter">
+</article></slide><slide class=''><hgroup><h2>How do EEG/MEG and fMRI relate?</h2></hgroup><article  id="how-do-eegmeg-and-fmri-relate" class="flexbox vcenter">
 
 <div class="centered">
-<p><img src="img/logothetis-2001.jpg"/></p></div>
+<p><img src="img/logothetis-2001.jpg"/></p>
+
+<p><a href='http://doi.org/10.1038/35084005' title=''><span class="cite">(Logothetis et al. 2001)</span></a></p></div>
+
+</article></slide><slide class=''><hgroup><h2>How do EEG/MEG and fMRI relate?</h2></hgroup><article  id="how-do-eegmeg-and-fmri-relate-1" class="flexbox vcenter">
+
+<ul>
+<li>BOLD fMRI likely reflects presynaptic <em>input</em> to area</li>
+<li>EEG/MEG likely reflects postsynaptic <em>response</em> to those inputs</li>
+<li><a href='http://doi.org/10.1038/35084005' title=''><span class="cite">(Logothetis et al. 2001)</span></a> and <a href='http://doi.org/10.1146/annurev.physiol.66.082602.092845' title=''><span class="cite">(Logothetis and Wandell 2004)</span></a></li>
+</ul>
 
 </article></slide><slide class=''><hgroup><h2>Manipulating the brain</h2></hgroup><article  id="manipulating-the-brain">
 
@@ -460,11 +507,23 @@ slides > slide:not(.nobackground):after {
 </article></slide><slide class=''><hgroup><h2>References</h2></hgroup><article  id="references" class="unnumbered smaller">
 
 <div id="refs" class="references">
+<div id="ref-Gilmore2017-qi">
+<p>Gilmore, Rick O, Michele T Diaz, Brad A Wyble, and Tal Yarkoni. 2017. “Progress Toward Openness, Transparency, and Reproducibility in Cognitive Neuroscience.” <em>Ann. N. Y. Acad. Sci.</em>, 2~may. N. Y. Acad. Sci. doi:<a href='https://doi.org/10.1111/nyas.13325' title=''>10.1111/nyas.13325</a>.</p></div>
+
+<div id="ref-Logothetis2004-mn">
+<p>Logothetis, Nikos K, and Brian A Wandell. 2004. “Interpreting the BOLD Signal.” <em>Annu. Rev. Physiol.</em> 66 (1): 735–69. doi:<a href='https://doi.org/10.1146/annurev.physiol.66.082602.092845' title=''>10.1146/annurev.physiol.66.082602.092845</a>.</p></div>
+
+<div id="ref-Logothetis2001-ul">
+<p>Logothetis, Nikos K, Jon Pauls, Mark Augath, Torsten Trinath, and Axel Oeltermann. 2001. “Neurophysiological Investigation of the Basis of the fMRI Signal.” <em>Nature</em> 412 (6843): 150–57. doi:<a href='https://doi.org/10.1038/35084005' title=''>10.1038/35084005</a>.</p></div>
+
+<div id="ref-Poldrack2017-xc">
+<p>Poldrack, Russell A, Chris I Baker, Joke Durnez, Krzysztof J Gorgolewski, Paul M Matthews, Marcus R Munafò, Thomas E Nichols, Jean-Baptiste Poline, Edward Vul, and Tal Yarkoni. 2017. “Scanning the Horizon: Towards Transparent and Reproducible Neuroimaging Research.” <em>Nat. Rev. Neurosci.</em> advance online publication (5~jan). doi:<a href='https://doi.org/10.1038/nrn.2016.167' title=''>10.1038/nrn.2016.167</a>.</p></div>
+
 <div id="ref-Sejnowski2014-aa">
 <p>Sejnowski, Terrence J, Patricia S Churchland, and J Anthony Movshon. 2014. “Putting Big Data to Good Use in Neuroscience.” <em>Nat. Neurosci.</em> 17 (11): 1440–1. doi:<a href='https://doi.org/10.1038/nn.3839' title=''>10.1038/nn.3839</a>.</p></div>
 
-<div id="ref-Szucs2017-fc">
-<p>Szucs, Denes, and John P A Ioannidis. 2017. “Empirical Assessment of Published Effect Sizes and Power in the Recent Cognitive Neuroscience and Psychology Literature.” <em>PLoS Biol.</em> 15 (3): e2000797. doi:<a href='https://doi.org/10.1371/journal.pbio.2000797' title=''>10.1371/journal.pbio.2000797</a>.</p></div></div></article></slide>
+<div id="ref-Sladky2013-bu">
+<p>Sladky, Ronald, Pia Baldinger, Georg S Kranz, Jasmin Tröstl, Anna Höflich, Rupert Lanzenberger, Ewald Moser, and Christian Windischberger. 2013. “High-Resolution Functional MRI of the Human Amygdala at 7 T.” <em>Eur. J. Radiol.</em> 82 (5): 728–33. doi:<a href='https://doi.org/10.1016/j.ejrad.2011.09.025' title=''>10.1016/j.ejrad.2011.09.025</a>.</p></div></div></article></slide>
 
 
   <slide class="backdrop"></slide>
