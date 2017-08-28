@@ -36,7 +36,7 @@ title: "Schedule"
 - Topics
     + Neuroanatomy. Read BW 2:34-49.
 - Materials
-    <!-- + Lecture notes | [HTML slides](lectures/511-2017-08-30.html) | -->
+    + Lecture notes | [HTML slides](lectures/511-2017-08-30-anatomy.html) |
  
 ### Fri, Sep 1
 
