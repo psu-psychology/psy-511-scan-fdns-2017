@@ -17,8 +17,12 @@ output:
 
 ## Brain anatomy through dance
 
-<audio src="snd/brain_boxing.m4a">
+<div class="centered">
+<audio controls>
+  <source src="snd/brain_boxing.m4a" type="audio/mpeg">
+  Your browser does not support the audio tag.
 </audio>
+</div>
 
 ## Finding our way around
 
@@ -123,7 +127,7 @@ output:
 <http://www.nature.com/nrn/journal/v7/n1/images/nrn1824-f3.jpg>
 </div>
 
-## Area Postrema
+## Area Postrema {.smaller}
 
 - Brainstem, blood-brain barrier thin
 
@@ -162,26 +166,36 @@ output:
 | Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
 |                | --                   | Mylencephalon      | Medulla oblongata |
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wq8EVQUc9a4" frameborder="0" allowfullscreen></iframe>
+
 ## [Hindbrain](https://en.wikipedia.org/wiki/File:EmbryonicBrain.svg)
 
 <div class="centered">
-<img src="https://en.wikipedia.org/wiki/File:EmbryonicBrain.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/EmbryonicBrain.svg/1200px-EmbryonicBrain.svg.png" height=500px>
 </div>
 
+## [Hindbrain](https://en.wikipedia.org/wiki/File:EmbryonicBrain.svg)
 
-### Structures adjacent to 4th ventricle
+- Structures adjacent to 4th ventricle
+    - Medulla oblongata
+    - Cerebellum
+    - Pons
 
-- Medulla oblongata
-- Cerebellum
-- Pons
-
-----
+---
 
 <div class="centered">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gray708.svg/500px-Gray708.svg.png">
 </div>
 
-## Medulla oblongata {.smaller}
+---
+
+<div class="centered">
+<img src="http://webspace.ship.edu/cgboer/medial-labelled.gif" height=550px>
+</div>
+
+## [Medulla oblongata](https://en.wikipedia.org/wiki/Medulla_oblongata) {.smaller}
 
 <div class="centered">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/1311_Brain_Stem.jpg" height="500px">
@@ -194,6 +208,8 @@ output:
 - Cardiovascular regulation
 - Muscle tone
 - Fibers of passage
+    - Ascending fibers (from body), a.k.a. afferents
+    - Descending fibers (**e**xiting brain), a.k.a., **e**fferents
 
 ## [Cerebellum](https://en.wikipedia.org/wiki/Cerebellum)
 
@@ -209,7 +225,11 @@ output:
 </a>
 </div>
 
-## Pons
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6szEeD0n-oU" frameborder="0" allowfullscreen></iframe>
+
+## [Pons](https://en.wikipedia.org/wiki/Pons)
 
 - Bulge on brain stem
 - Neuromodulatory nuclei
@@ -236,18 +256,33 @@ output:
 <https://upload.wikimedia.org/wikipedia/commons/0/0b/Gray719.png>
 </div>
 
-## Tectum
 
+---
+
+<div class="centered">
+<img src="http://www.radioanatomie.com/30_irm_sagittale_mediane/99_images/2_Tectum.jpg" height=550px>
+</div>
+
+## [Tectum](https://en.wikipedia.org/wiki/Tectum)
+
+- "Roof" of the midbrain
 - Superior and inferior colliculus
 - Reflexive orienting of eyes, head, ears
 
-## Tegmentum
+## [Tegmentum](https://en.wikipedia.org/wiki/Tegmentum)
 
+- "Floor" of the midbrain
 - Species-typical movement sequences
 - Neuromodulatory nuclei
-    + Dopamine (DA)
     + Norepinephrine (NE)
     + Serotonin (5-HT)
+    + Dopamine (DA) -- from *ventral tegmental area (VTA)*
+
+---
+
+<div class="centered">
+<img src="https://vignette1.wikia.nocookie.net/addictionpathology/images/8/8b/The_reward_pathway_2.gif/revision/latest?cb=20091210025108" height=500px>
+</div>
 
 ## Forebrain {.smaller}
 
@@ -262,7 +297,7 @@ output:
 ### Diencephalon
 ### Telencephalon
 
-## Diencephalon {.smaller}
+## [Diencephalon](https://en.wikipedia.org/wiki/Diencephalon) {.smaller}
 
 <div class="centered">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/1310_Diencephalon.jpg" height="400px">
@@ -275,10 +310,16 @@ output:
 - Thalamus
 - Hypothalamus
 
-## Thalamus {.smaller}
+---
 
 <div class="centered">
-<img src="http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231">
+<img src="http://webspace.ship.edu/cgboer/medial-labelled.gif" height=550px>
+</div>
+
+## [Thalamus](https://en.wikipedia.org/wiki/Thalamus) {.smaller}
+
+<div class="centered">
+<img src="http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231" height=500px>
 
 <http://neurobiologychapter3.weebly.com/uploads/1/4/1/8/1418733/5118342.jpg?401x231>
 </div>
@@ -286,16 +327,17 @@ output:
 ## Thalamus functions
 
 - Input to cortex
-- Functionally distinct nuclei (collection of neurons)
-- Lateral geniculate nucleus (LGN), vision
-- Medial geniculate nucleus (MGN), audition
+- Functionally distinct *nuclei* (collection of neurons)
+    - Lateral geniculate nucleus (LGN), vision
+    - Medial geniculate nucleus (MGN), audition
+    - Pulvinar, attention?
 
-## Hypothalamus
+## [Hypothalamus](https://en.wikipedia.org/wiki/Hypothalamus)
 
-- Four Fs: fighting, fleeing, feeding, and reproduction
+- Five Fs: fighting, fleeing/freezing, feeding, and reproduction
 - Controls pituitary gland (“master” gland)
-    + Anterior (indirect release of hormones)
-    + Posterior (direct release of hormones)
+    + Anterior pituitary (indirect release of hormones)
+    + Posterior pituitary (direct release of hormones)
         * Oxytocin
 	      * Vasopressin 
 
@@ -307,6 +349,12 @@ output:
 <http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg>
 </div>
 
+---
+
+<div class="centered">
+<img src="https://i.stack.imgur.com/IeFkI.jpg" height=550px>
+</div>
+
 ## Telencephalon
 
 - Basal ganglia
@@ -316,7 +364,7 @@ output:
 ## [Basal Ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
 
 - Skill and habit learning
-- Linked to Tourette syndrome, OCD, addiction, movement disorders
+- Linked to Tourette syndrome, obsessive-compulsive disorder (OCD), addiction, movement disorders
 - Example: Parkinson's Disease
 
 ## Basal ganglia {.smaller}
@@ -336,6 +384,16 @@ output:
 - Subthalamic nucleus 
 - Substantia nigra (tegmentum)
 
+---
+
+<div class="centered">
+<img src="https://fhs122anatomyelab.files.wordpress.com/2014/05/basal-ganglia.jpg?w=524&h=393" height=550px>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7z-373pwuI" frameborder="0" allowfullscreen></iframe>
+
 ## Hippocampus
 
 - Immediately lateral to lateral ventricles
@@ -351,6 +409,16 @@ output:
 <http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg>
 </div>
 
+---
+
+<div class="centered">
+<img src="http://www.neuro24.de/hip0006.jpg" height=550px>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wjvDDH-uJ0s" frameborder="0" allowfullscreen></iframe>
+
 ## Amygdala (“almond”)
 
 - Physiological state, behavioral readiness, affect
@@ -364,8 +432,19 @@ output:
 <http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg>
 </div>
 
+---
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/31697/fpsyg-03-00319-HTML/image_m/fpsyg-03-00319-g002.jpg" height=550px>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB9rs4tEAaE" frameborder="0" allowfullscreen></iframe>
+
 ## Next time
 
+- Gilmore's cautionary notes
 - The cerebral cortex
 - The peripheral nervous system
 
