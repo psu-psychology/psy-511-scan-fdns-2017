@@ -15,6 +15,10 @@ output:
 
 ### Gross neuroanatomy
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snO68aJTOpM" frameborder="0" allowfullscreen></iframe>
+
 ## Brain anatomy through dance
 
 <div class="centered">
