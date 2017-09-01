@@ -11,11 +11,42 @@ output:
     transition: default
 ---
 
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qw8E9WnZTQk" frameborder="0" allowfullscreen></iframe>
+
 ## Today's Topics
 
+- Web resources
 - Wrap up on the forebrain
 - White matter tracts
 - The peripheral nervous system
+
+## Web resources
+
+- [Harvard Whole Brain Atlas](http://www.med.harvard.edu/aanlib/cases/caseM/mr1_t/024.html)
+    - [Whole Brain Atlas Top 100 Brain Structures List](http://www.med.harvard.edu/aanlib/cases/caseM/case.html)
+- [Normal Anatomy](http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm)
+    - [Linked list of structures](http://www.med.harvard.edu/aanlib/cases/caseNA/strl.htm)
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
+|                |                      |                    | Basal ganglia   |
+|                |                      |                    | Hippocampus, amygdala |
+|                | Third                | Diencephalon       | Thalamus        |
+|                |                      |                    | Hypothalamus    |
+| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure         |
+|----------------|----------------------|--------------------|-------------------|
+| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
+|                | --                   | Mylencephalon      | Medulla oblongata |
 
 ## Hippocampus
 
