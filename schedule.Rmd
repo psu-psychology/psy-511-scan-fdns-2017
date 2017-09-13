@@ -43,6 +43,7 @@ title: "Schedule"
 - Topics
     + Neuroanatomy. Read BW 2:34-49.
 - Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-09-01-anatomy-II.html) |
 
 ---
 
@@ -51,14 +52,16 @@ title: "Schedule"
 ### Wed, Sep 6
 
 - Topics
+    + Wrap-up on neuroanatomy
     + **Neuroanatomy Lab**.
 - Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-09-01-anatomy-II.html) |
+    + [Anatomy lab handout](handout/neuroanatomy-lab-handout.pdf)
 
 ### Fri, Sep 8
 
 - Topics
     + **Neuroanatomy Lab**.
-- Materials
 
 ---
 
@@ -69,8 +72,10 @@ title: "Schedule"
 - Topics
     + Cellular neuroanatomy. Read BW 2:23-33. 
 - Supplemental Materials
-    + Zeng, H., & Sanes, J. R. (2017). Neuronal cell-type classification: challenges, opportunities and the path forward. Nature reviews. Neuroscience. Retrieved from <http://dx.doi.org/10.1038/nrn.2017.85>.
-    + Oliveira, J. F., Sardinha, V. M., Guerra-Gomes, S., Araque, A., & Sousa, N. (2015). Do stars govern our actions? Astrocyte involvement in rodent behavior. Trends in neurosciences, 38(9), 535–549. Retrieved from http://dx.doi.org/10.1016/j.tins.2015.07.006
+    + Zeng, H., & Sanes, J. R. (2017). Neuronal cell-type classification: challenges, opportunities and the path forward. *Nature Reviews Neuroscience*. Retrieved from <http://dx.doi.org/10.1038/nrn.2017.85>.
+    + Oliveira, J. F., Sardinha, V. M., Guerra-Gomes, S., Araque, A., & Sousa, N. (2015). Do stars govern our actions? Astrocyte involvement in rodent behavior. *Trends in Neurosciences*, *38*(9), 535–549. Retrieved from http://dx.doi.org/10.1016/j.tins.2015.07.006
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-09-13-cells.html) |
 
 ### Fri, Sep 15
 
