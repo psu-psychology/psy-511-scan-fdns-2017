@@ -177,7 +177,7 @@ brain %>% ggplot() +
 
 ## What makes neurons "special"?
 
-- Long-lived (most generated b/w 3-25 weeks GA)
+- Long-lived (most generated b/w 3-25 weeks gestational age)
 - Extended branching (dendrites and axons)
 - Electrically excitable
 - Connect to small #s of other cells via synapses
