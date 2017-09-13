@@ -167,12 +167,12 @@ brain %>% ggplot() +
 - Clean-up damaged, dead tissue
 - Role in 'pruning' of synapses in normal development
 
-## Microglia
+## Microglia {.smaller}
 
 <div class="centered">
-<img src="http://www.bioscience.utah.edu/faculty/molecular-biology-faculty/vetter/vetterfig2011.jpg" height=450px>
+<img src="http://www.the-scientist.com/images/JulyAug2017/microglia.jpg" height=450px>
 
-<http://www.bioscience.utah.edu/faculty/molecular-biology-faculty/vetter/vetterfig2011.jpg>
+<http://www.the-scientist.com/images/JulyAug2017/microglia.jpg>
 </div>
 
 ## What makes neurons "special"?
@@ -301,9 +301,29 @@ brain %>% ggplot() +
 <http://blogs.scientificamerican.com/brainwaves/files/2012/05/selection-glamor-FINAL-300x225.jpg>
 </div>
 
+## Morphology, physiology, gene transcription
+
+<div class="centered">
+<a href="http://doi.org/0.1038/nrn.2017.85">
+<img src="https://images.nature.com/full/nature-assets/nrn/journal/v18/n9/images_article/nrn.2017.85-f1.jpg" height=500px>
+</a>
+
+[Zeng & Sanes, 2017](http://doi.org/0.1038/nrn.2017.85)
+</div>
+
+---
+
+<div class="centered">
+<a href="http://doi.org/0.1038/nrn.2017.85">
+<img src="https://images.nature.com/full/nature-assets/nrn/journal/v18/n9/images/nrn.2017.85-f6.jpg" height=500px>
+</a>
+
+[Zeng & Sanes, 2017](http://doi.org/0.1038/nrn.2017.85)
+</div>
+
 ## Next time
 
-- **Quiz 1**
+- **Quiz 1** (available after class)
 - Neurophysiology
 
 ## References {.smaller}
