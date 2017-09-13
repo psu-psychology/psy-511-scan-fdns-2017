@@ -11,6 +11,10 @@ output:
     transition: default
 ---
 
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+```
+
 ## Announcements
 
 - **Quiz 1** Friday
@@ -52,9 +56,9 @@ output:
 [[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)
 </div>
 
----
+## Neurons by brain mass
 
-```{r}
+```{r echo=FALSE}
 # data from Azevedo
 mass_g <- c(1232.93, 154.02, 117.66)
 portion <- c("cerebral ctx", "cerebellum", "rest")
@@ -62,9 +66,18 @@ b_neurons <- c(16.34, 69.03, 0.69)
 b_nonneurons <- c(60.84, 16.04, 7.73)
 brain <- data.frame(portion, mass_g, b_neurons, b_nonneurons)
 
-library(tidyverse)
 brain %>% ggplot() +
   aes(x=mass_g, b_neurons, color=portion) +
+  geom_point() +
+  xlab("Mass in g") +
+  ylab("Billions of cells")
+```
+
+## Non-neuronal cells by brain mass
+
+```{r echo=FALSE}
+brain %>% ggplot() +
+  aes(x=mass_g, b_nonneurons, color=portion) +
   geom_point() +
   xlab("Mass in g") +
   ylab("Billions of cells")
