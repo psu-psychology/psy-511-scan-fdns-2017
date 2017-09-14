@@ -80,9 +80,10 @@ title: "Schedule"
 ### Fri, Sep 15
 
 - Topics
-    + **Quiz 1**.
+    + **Quiz 1**. Due at start of class on Wednesday, September 20, 2017.
     + Neurophysiology. Read BW 3:57-73.
 - Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-09-15-neurophys.html) |
 
 ---
 
@@ -109,7 +110,6 @@ title: "Schedule"
 
 - Topics
     + Neurochemistry. Read BW: 4:107-124.
-- Supplemental Materials
 
 ### Fri Sep 29
 

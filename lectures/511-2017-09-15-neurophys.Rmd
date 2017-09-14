@@ -1,11 +1,11 @@
 ---
-title: "511-2015-09-14"
+title: "511-2017-09-15-neurophysiology"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 bibliography: bib/bibliography.bib
 output:
   ioslides_presentation:
-    css: css/gilmore.css
+    css: css/ioslides.css
     widescreen: true
     incremental: false
     transition: default
@@ -14,8 +14,63 @@ output:
 ## Today's Topics
 
 - **Quiz 1**
+- Why brains?
 - The resting potential
-- The action potential
+
+## Why brains?
+
+- [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+- [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+- [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+
+[Sterling & Laughlin, 2015](https://mitpress.mit.edu/neuraldesign%20)
+
+## [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+
+- Tiny, single-celled bacterium
+- Feeds on glucose
+- Chemo ("taste") receptors on surface membrane
+- Flagellum for movement
+- Food concentration regulates duration of "move" phase
+- ~4 ms for chemical signal to diffuse from anterior/posterior
+
+<!-- --- -->
+
+<!-- <div class="centered"> -->
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/_BgDdkTKjM0?rel=0&amp;start=60" frameborder="0" allowfullscreen></iframe> -->
+<!-- </div> -->
+
+---
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGAm6hMysTA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+
+- 300K larger than E. Coli
+- Propulsion through coordinated beating of cilia
+- Diffusion from head to tail ~40 s!
+- Use electrical signaling instead
+    - Na+ channel opens (e.g., when stretched)
+    - Voltage-gated Ca++ channels open, Ca++ enters, triggers cilia
+    - Signal across cell within ms
+    
+## [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+
+- ~10x larger than paramecium
+- 302 neurons + 56 glial cells (out of 959)
+- Swim, forage, mate
+
+---
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgZHziFWR7M?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+C Elegans swimming.
+</div>
 
 ## Neural communication
 
@@ -23,8 +78,8 @@ output:
     + Fast(er)
     + Within neurons
 - Chemical
-    + Slow(er)
-    + Between neurons
+    + Diffusion slow(er)
+    + Within & between neurons
     
 ## How are messages generated?
 
@@ -111,7 +166,6 @@ output:
 <img src="http://www.nature.com/nrn/journal/v2/n4/images/nrn0401_240a_f1.gif">
 </div>
 
-
 ## Ion channels
 
 - Selective
@@ -154,10 +208,18 @@ output:
 <https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg>
 </div>
 
+---
+
+<iframe width="844px" height="596px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="https://lab.concord.org/embeddable.html#interactives/sam/diffusion/4-semipermeable.json"></iframe>
+
 ## Neuron at rest
 
 - Force of diffusion
-    + K+ moves from high concentration (inside) to low (outside)
+    + K+ moves from high concentration (~150 mM inside) to low (~4 mM outside)
+    - Movement of charged particles == current
+    
+## Neuron at rest
+
 - Electrostatic pressure
     + Voltage build-up stops K+ outflow
     + Voltage called "reversal potential"
@@ -184,7 +246,7 @@ output:
 
 - Na+ also has reversal potential
 - Membrane at rest not very permeable to Na+
-- Concentrated outside neuron
+- Concentrated outside neuron (~140 mM) vs. inside (~10 mM)
 - Some Na+ flows *in*
 - Equilibrium potential is positive (with respect to outside)
 
@@ -220,12 +282,35 @@ output:
 | K+  | Inside >> Outside, outward      | - (pulls K+ in)    |
 | Na+ | Outside >> Inside, inward      | - (pulls Na+ in)    |
 
+## Driving force and equilibrium potential
+
+- "Driving Force" on a given ion depends on its equilibrium potential.
+- Driving force larger if membrane potential far from equilibrium potential for ion.
+- *Equilibrium potential*
+    + Voltage that keeps current (inside/outside) concentrations the same
+    + Voltage membrane potential will approach if **only** that ion flows
+
+## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
+
+| Ion | [inside]  | [outside]    | Voltage    |
+|-----|-----------|--------------|------------|
+| K+  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| Na+ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| Cl- | ~10 mM    | ~110 mM      | - 65-80 mV  |
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=400px>
+</a>
+</div>
+
 ## Video summary of resting potential
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PtKAeihnbv0" frameborder="0" allowfullscreen></iframe>
 
 ## Next time...
 
-- Neural communication
+- See also <https://en.wikipedia.org/wiki/Membrane_potential>
+- Or, what could make Annie's party go haywire?
 
 ## References
