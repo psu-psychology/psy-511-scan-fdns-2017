@@ -83,16 +83,6 @@ brain %>% ggplot() +
   ylab("Billions of cells")
 ```
 
----
-
-```{r}
-brain %>% ggplot() +
-  aes(x=mass_g, b_nonneurons, color=portion) +
-  geom_point() +
-  xlab("Mass in g") +
-  ylab("Billions of cells")
-```
-
 ## The Human Advantage
 
 <div class="centered">
