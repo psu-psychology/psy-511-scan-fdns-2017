@@ -89,13 +89,12 @@ title: "Schedule"
 
 ## Week 5
 
-- Topics
-    + Neural communication. Read BW 3:55-89.
-
 ### Wed, Sep 20,
 
 - Topics
     + Neural communication. Read BW 3:55-89.
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-09-20-neurophys-II.html) |
 
 ### Fri, Sep 22
 
