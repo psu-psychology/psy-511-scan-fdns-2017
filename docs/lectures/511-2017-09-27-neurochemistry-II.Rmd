@@ -1,0 +1,275 @@
+---
+title: "511-2017-09-27-neurochemistry-II"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: ["css/ioslides.css"]
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+## Today's Topics
+
+- Neurochemistry
+    - How neurons talk to one another
+
+----
+
+<div class="centered">
+<img src="https://classconnection.s3.amazonaws.com/94/flashcards/1500094/jpg/chemical_synapse1355159626230.jpg" height=500px>
+</div>
+
+<div class="notes">
+Steps in synaptic transmission.
+</div>
+
+----
+
+<div class="centered">
+<img src="http://worldartsme.com/images/evil-scientist-clipart-1.jpg" height=500px>
+</div>
+
+## How to stop your prey
+
+| Substance | Effect |
+|-----------|--------|
+| Japanese pufferfish toxin | Blocks voltage-gated $Na^+$ channels |
+| Black widow spider venom | Accelerates presynaptic ACh release |
+| Botulinum toxin | Prevents ACh vesicles from binding presynaptically |
+| Sarin nerve gas | Impedes ACh breakdown by AChE |
+| Pesticides | Impedes AChE |
+| Tetanus toxin | Blocks release of GABA, glycine |
+
+## Monoamine Song {.smaller}
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gsjcb7w1Y-w" frameborder="0" allowfullscreen></iframe>
+
+<https://en.wikipedia.org/wiki/Mah_Nà_Mah_Nà>
+
+## Monoamine Song
+
+￼Monoamines, do-do do do-do</br>
+Monoamines, do do do-do</br>
+Monoamines, do do do do-do do do-do do do-do do do do do-do do
+
+## Monoamine Song
+
+￼Monoamines, do-pa-mine is one</br>
+Monoamines, norepi, too</br>
+Monoamines, sero-tonin e-pinephrine, dop-a- mine, nor-epinephrine, melatonin, whoo!
+
+## Monoamine Song
+
+Monoamines, mod-u-late neurons </br>
+Monoamines, throughout the brain</br>
+Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+
+## Monoamine NTs
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Monoamines  | Dopamine (DA)                           |
+|             | Norepinephrine (NE)/Noradrenaline (NAd) |
+|             | Epinephrine (Epi)/Adrenaline (Ad)       |
+|             | Serotonin (5-HT)                        |
+|             | Melatonin                               |
+|             | Histamine                               |
+
+## Information processing
+
+- Point-to-point
+    + One sender, small number of recipients
+    + Glu, GABA
+- Broadcast
+    + One sender, widespread recipients
+    + DA, NE, 5-HT, melatonin, histamine
+- Need to know
+    + NT, where projecting, type of receptor to predict function
+
+## Dopamine
+
+- Released by
+    + Substantia nigra -> striatum, *meso-striatal projection*
+    + Ventral tegmental area (VTA) -> nucleus accumbens, ventral striatum, hippocampus, amygdala, cortex; *meso-limbo-cortical projection*
+    
+## Dopamine Anatomy {.smaller}
+
+<div class="centered">
+<img src="http://thebrain.mcgill.ca/flash/a/a_03/a_03_cl/a_03_cl_que/a_03_cl_que_1a.gif" width=450px>
+
+<http://thebrain.mcgill.ca/flash/a/a_03/a_03_cl/a_03_cl_que/a_03_cl_que_1a.gif>
+</div>
+
+## DA Disruption linked to
+
+- Parkinson's Disease (mesostriatal)
+    + DA agonists treat (agonists facilitate/increase transmission)
+- ADHD (mesolimbocortical)
+- Schizophrenia (mesolimbocortical)
+    + DA antagonists treat -- [Dopamine hypothesis of schizophrenia](https://en.wikipedia.org/wiki/Dopamine_hypothesis_of_schizophrenia)
+- Addiction (mesolimbocortical) -- [reward system](https://en.wikipedia.org/wiki/Reward_system)
+
+## DA Inactivated by {.smaller}
+
+- Dopamine transporter (DAT) and chemical breakdown
+    
+<http://www.scholarpedia.org/article/Dopamine_anatomy#Dopamine_receptors>
+    
+## Dopamine receptors
+
+| Type         | Receptor             | Comments                      |
+|--------------|----------------------|-------------------------------|
+| Metabotropic | $D_1$-like ($D_1$ and $D_5$)  | more prevalent                |
+|              | $D_2$-like ($D_2$, $D_3$, $D_4$) | target of many antipsychotics |
+
+## Norepinephrine (NE)
+
+- Released by 
+    + *[locus coeruleus](http://www.scholarpedia.org/article/Locus_coeruleus)* in pons
+    + postganglionic sympathetic neurons onto target tissues
+- Role in arousal, mood, eating, sexual behavior
+- Monoamine oxidase inhibitors (MAOIs)
+    + inactivate monoamines in neurons, astrocytes
+    + [MAOIs](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor) increase NE, DA
+    + Treatment for depression
+    
+## NE Anatomy {.smaller}
+
+<div class="centered">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg" height=500px>
+
+<https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg>
+</div>
+
+## NE receptors
+
+| Type         | Receptor             | Comments                           |
+|--------------|----------------------|------------------------------------|
+| Metabotropic | $\alpha$ (1,2)         | antagonists treat anxiety, panic   |
+|              | $\beta$ (1,2,3)        | 'beta blockers' in cardiac disease |
+
+---
+
+| Epinephrine               | Norepinephrine            |
+|---------------------------|---------------------------|
+| + methyl group            |                           |
+| Mostly from adrenal medulla | adrenal medulla + symp NS |
+| broader affinity          | narrower affinity         |
+| treat allergic reactions  | increase blood pressure   |
+
+## Serotonin (5-HT)
+
+- Released by *raphe nuclei* in brainstem
+- Role in mood, sleep, eating, pain, nausea, cognition, memory
+- Modulates release of other NTs
+- Most of body's 5-HT regulates *digestion* via enteric nervous system
+
+## Enteric nervous system
+
+- ~ 500 M nerves (> spinal cord), aka "second brain"
+- Ennervated by symp and parasymp, but can function autonomously
+- Interface b/w microbiome and CNS
+- [[@Costa2000-nd]](http://doi.org/10.1136/gut.47.suppl\_4.iv15)]
+
+## 5-HT anatomy {.smaller}
+
+<div class="centered">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg" height=500px>
+
+<https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg>
+</div>
+
+## 5-HT receptors
+
+- Seven families (5-HT 1-7) with 14 types
+- All but one metabotropic
+
+## 5-HT clinical significance
+
+- Ecstasy (MDMA) affects serotonin
+- So does lysergic acid diethylamide (LSD)
+- Fluoxetine (Prozac)
+    + *Selective Serotonin Reuptake Inhibitor (SSRI)*
+    + Treats depression, panic, eating disorders, others
+- 5-HT3 receptor antagonists are anti-mimetics used in treating nausea
+
+## [Melatonin](https://en.wikipedia.org/wiki/Melatonin) {.smaller}
+
+- Released by pineal gland
+
+<div class="centered">
+<img src="http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg" height=500px>
+<http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg>
+
+</div>
+
+## [Histamine](https://en.wikipedia.org/wiki/Histamine)
+
+- Released by hypothalamus, projects to whole brain
+- Metabotropic receptors
+- Role in arousal/sleep regulation
+- In body, part of immune response
+
+## Targets of psychotropic drugs {.smaller}
+
+<div class="centered">
+<img src="img/psychotropic-drug-targets.jpg" height=500px>
+
+<https://stahlonline.cambridge.org/essential_4th_chapter.jsf?page=chapter2_summary.htm&name=Chapter%202&title=Summary>
+</div>
+
+## Monoamine synthesis network
+
+<div class="centered">
+<a href="http://doi.org/10.1038/nrneurol.2015.172">
+<img src="https://images.nature.com/full/nature-assets/nrneurol/journal/v11/n10/images/nrneurol.2015.172-f2.jpg" height=500px>
+</a>
+
+[[@Ng2015-la]](http://doi.org/10.1038/nrneurol.2015.172)
+</div>
+
+<div class="notes">
+Monamines have interacting synthesis pathways. This is one reason why drugs that influence them have so many widespread (side) effects.
+</div>
+
+## Others
+
+- Gases
+    + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
+        - Diffuse over larger area than typical NTs
+- Neuropeptides
+    + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
+    + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulates appetite, arousal
+    + *Cholecystokinin (CCK)* stimulates digestion
+    
+## Others
+
+- Purines
+    + *Adenosine* (inhibited by caffeine)
+- Others
+    + *Anandamide* (activates endogenous cannabinoid receptors)
+    
+## Types of chemical communication
+
+- *Neurocrine*
+    + ￼Sending cell -> Receiving cell
+- *Autocrine*
+    + Sending cell -> itself
+    + e.g., presynaptic autoreceptors
+- *Paracrine*
+    + Sending cell -> neighboring cells
+    + NO and CO NTs
+    
+## Types of chemical communication
+
+- *Endocrine*
+    + Sending cell -> many cells elsewhere in body
+- *Pheromone*
+    + Sending cell -> other animals of same species
+- *Allomone*
+    + Sending cell -> cells in other species
+
+## References {.smaller}

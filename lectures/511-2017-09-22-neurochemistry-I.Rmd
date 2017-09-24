@@ -452,4 +452,4 @@ Remember [Cl-out]>>[Cl-in]
 <!-- - Others -->
 <!--     + *Anandamide* (activates endogenous cannabinoid receptors) -->
 
-## References
+## References {.smaller}
