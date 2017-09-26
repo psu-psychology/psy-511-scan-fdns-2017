@@ -86,6 +86,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Broadcast
     + One sender, widespread recipients
     + DA, NE, 5-HT, melatonin, histamine
+    + Often involved in psychiatric conditions [[@Costa2000-nd]](http://doi.org/10.1136/gut.47.suppl\_4.iv15)]
 - Need to know
     + NT, where projecting, type of receptor to predict function
 
@@ -171,8 +172,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 - ~ 500 M nerves (> spinal cord), aka "second brain"
 - Ennervated by symp and parasymp, but can function autonomously
-- Interface b/w microbiome and CNS
-- [[@Costa2000-nd]](http://doi.org/10.1136/gut.47.suppl\_4.iv15)]
+- Interface b/w microbiome and CNS [[@Lima-Ojeda2017-nt]](http://dx.doi.org/10.3389/fpsyt.2017.00153)
 
 ## 5-HT anatomy {.smaller}
 

@@ -111,6 +111,8 @@ title: "Schedule"
 
 - Topics
     + Neurochemistry II. Read BW: 4:107-124.
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-09-27-neurochemistry-II.html) |
 
 ### Fri Sep 29
 
