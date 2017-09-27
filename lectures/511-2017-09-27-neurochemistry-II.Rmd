@@ -87,6 +87,9 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
     + One sender, widespread recipients
     + DA, NE, 5-HT, melatonin, histamine
     + Often involved in psychiatric conditions [[@Costa2000-nd]](http://doi.org/10.1136/gut.47.suppl\_4.iv15)]
+
+## Information processing
+
 - Need to know
     + NT, where projecting, type of receptor to predict function
 
@@ -154,19 +157,19 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 ---
 
-| Epinephrine               | Norepinephrine            |
-|---------------------------|---------------------------|
-| + methyl group            |                           |
-| Mostly from adrenal medulla | adrenal medulla + symp NS |
-| broader affinity          | narrower affinity         |
-| treat allergic reactions  | increase blood pressure   |
+| | Epinephrine               | Norepinephrine            |
+|-|--------------------------|---------------------------|
+| Chemical diff | + methyl group            |                           |
+| Released | Mostly from adrenal medulla | adrenal medulla + symp NS |
+| Targets | broader          | narrower         |
+| Therapeutic | treat allergic reactions  | increase blood pressure   |
 
 ## Serotonin (5-HT)
 
 - Released by *raphe nuclei* in brainstem
 - Role in mood, sleep, eating, pain, nausea, cognition, memory
 - Modulates release of other NTs
-- Most of body's 5-HT regulates *digestion* via enteric nervous system
+- Most of body's 5-HT regulates *digestion* via *enteric nervous system*
 
 ## Enteric nervous system
 
@@ -201,7 +204,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Released by pineal gland
 
 <div class="centered">
-<img src="http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg" height=500px>
+<img src="http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg" height=300px>
 <http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg>
 
 </div>
