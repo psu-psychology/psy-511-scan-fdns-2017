@@ -93,11 +93,14 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Need to know
     + NT, where projecting, type of receptor to predict function
 
-## Dopamine
+## Dopamine (DA)
 
 - Released by
     + Substantia nigra -> striatum, *meso-striatal projection*
     + Ventral tegmental area (VTA) -> nucleus accumbens, ventral striatum, hippocampus, amygdala, cortex; *meso-limbo-cortical projection*
+    + hypothalamus -> pituitary; *tuberohypophysial* projection
+    + also olfactory bulb and in retina
+- ~80% of brain DA in basal ganglia [@Sian1999-vn](https://www.ncbi.nlm.nih.gov/books/NBK27905/)
     
 ## Dopamine Anatomy {.smaller}
 
@@ -132,7 +135,8 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 ## Norepinephrine (NE)
 
 - Released by 
-    + *[locus coeruleus](http://www.scholarpedia.org/article/Locus_coeruleus)* in pons
+    + *[locus coeruleus](http://www.scholarpedia.org/article/Locus_coeruleus)* in pons/medulla
+    + 
     + postganglionic sympathetic neurons onto target tissues
 - Role in arousal, mood, eating, sexual behavior
 - Monoamine oxidase inhibitors (MAOIs)
@@ -169,6 +173,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Released by *raphe nuclei* in brainstem
 - Role in mood, sleep, eating, pain, nausea, cognition, memory
 - Modulates release of other NTs
+    - esp. glutamate & DA
 - Most of body's 5-HT regulates *digestion* via *enteric nervous system*
 
 ## Enteric nervous system
@@ -194,6 +199,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 - Ecstasy (MDMA) affects serotonin
 - So does lysergic acid diethylamide (LSD)
+    - promotes visual hallucinations via 5-HT upregulation?
 - Fluoxetine (Prozac)
     + *Selective Serotonin Reuptake Inhibitor (SSRI)*
     + Treats depression, panic, eating disorders, others
