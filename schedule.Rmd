@@ -119,7 +119,9 @@ title: "Schedule"
 - Topics
     + Hormones. 5:125-154.
 - Materials
-    + Gao, X.-B., & Horvath, T. (2014). Function and dysfunction of hypocretin/orexin: an energetics point of view. Annual review of neuroscience, 37, 101–116. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013855>
+    + Gao, X.-B., & Horvath, T. (2014). Function and dysfunction of hypocretin/orexin: An energetics point of view. *Annual Review of Neuroscience*, *37*, 101–116. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013855>
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-09-29-hormones.html) |
 
 ---
 

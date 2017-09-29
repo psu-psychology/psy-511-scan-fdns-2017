@@ -11,22 +11,21 @@ output:
     transition: default
 ---
 
-## Prelude
+<!-- ## Prelude -->
 
-<div class="centered">
-<a href="http://www.avanai.se/wp-content/uploads/2010/05/Breastfeeding-humor.jpg">
-<img src="http://www.avanai.se/wp-content/uploads/2010/05/Breastfeeding-humor.jpg" height=500px>
-</a>
-</div>
+<!-- <div class="centered"> -->
+<!-- <a href="http://www.avanai.se/wp-content/uploads/2010/05/Breastfeeding-humor.jpg"> -->
+<!-- <img src="http://www.avanai.se/wp-content/uploads/2010/05/Breastfeeding-humor.jpg" height=500px> -->
+<!-- </a> -->
+<!-- </div> -->
 
-## Prelude
+<!-- ## Prelude -->
 
-<div class="centered">
-<a href="http://rlv.zcache.co.uk/growth_hormone_humor_t_shirts-r15a3fb04f8654a839e39d1dc46aa91aa_j2nwp_324.jpg">
-<img src="http://rlv.zcache.co.uk/growth_hormone_humor_t_shirts-r15a3fb04f8654a839e39d1dc46aa91aa_j2nwp_324.jpg" height=500px>
-</a>
-</div>
-
+<!-- <div class="centered"> -->
+<!-- <a href="http://rlv.zcache.co.uk/growth_hormone_humor_t_shirts-r15a3fb04f8654a839e39d1dc46aa91aa_j2nwp_324.jpg"> -->
+<!-- <img src="http://rlv.zcache.co.uk/growth_hormone_humor_t_shirts-r15a3fb04f8654a839e39d1dc46aa91aa_j2nwp_324.jpg" height=500px> -->
+<!-- </a> -->
+<!-- </div> -->
 
 ## Today's Topics
 
@@ -38,17 +37,17 @@ output:
 - Act on specific target tissues via receptors
 - Produce specific effects
 
-## Can a substance be a hormone AND a neurotransmitter?
+<!-- ## Can a substance be a hormone AND a neurotransmitter? -->
 
-- Yes, why not?
-- No, absolutely not.
+<!-- - Yes, why not? -->
+<!-- - No, absolutely not. -->
 
-## Can a substance be a hormone AND a neurotransmitter?
+<!-- ## Can a substance be a hormone AND a neurotransmitter? -->
 
-- **Yes, why not?**
-- No, absolutely not.
+<!-- - **Yes, why not?** -->
+<!-- - No, absolutely not. -->
 
-## Examples
+## Examples of substances that are both hormones and NTs
     
 - Melatonin
 - Epinephrine/adrenaline
@@ -319,9 +318,15 @@ SCN/pineal gland pathway.
 
 - Measure hormones in blood, saliva; can't effectively measure NTs
 - Multivariate, nonlinear, mutually interacting
-- Varied time scales, multiple spatial scales
+- Varied time scales
+    - Phasic (e.g., cortisol in response to challenge)
+    - Periodic (e.g., melatonin; diurnal cortisol)
+    
+## How to think about neurochemical influences
+
+- Peripheral effects + neural feedback
 - State variables and behavior
-    - Are your participants sleepy, hungry, horny, distressed,...
+    - Are your participants sleepy, hungry, horny, distressed...
     - Endogenous & exogenous influences
 
 ## Next time...
