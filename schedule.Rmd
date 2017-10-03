@@ -121,7 +121,7 @@ title: "Schedule"
 - Materials
     + Gao, X.-B., & Horvath, T. (2014). Function and dysfunction of hypocretin/orexin: An energetics point of view. *Annual Review of Neuroscience*, *37*, 101–116. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013855>
 - Materials
-    + Lecture notes | [HTML slides](lectures/511-2017-09-29-hormones.html) |
+    + Lecture notes | [HTML slides](lectures/511-2017-09-29-hormones.html) 
 
 ---
 
@@ -132,7 +132,9 @@ title: "Schedule"
 - Topics
     + Evolution. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 - Supplemental Materials
-    + Rakic, P. (2009). Evolution of the neocortex: a perspective from developmental biology. Nature reviews. Neuroscience, 10(10), 724–735. Retrieved October 5, 2015, from <http://www.nature.com/nrn/journal/v10/n10/abs/nrn2719.html>.
+    + Rakic, P. (2009). Evolution of the neocortex: a perspective from developmental biology. Nature Reviews Neuroscience, 10(10), 724–735. Retrieved October 5, 2015, from <http://www.nature.com/nrn/journal/v10/n10/abs/nrn2719.html>.
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-10-04-evolution.html) 
 
 ### Fri, Oct 6
 
