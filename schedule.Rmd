@@ -152,7 +152,6 @@ title: "Schedule"
 ### Wed, Oct 11
 
 - Topics
-    + **Quiz 2**.
     + Perception. Read BW 8:223-247.
 - Supplemental Materials
 
@@ -171,6 +170,7 @@ title: "Schedule"
 
 - Topics
     + Action
+    + **Quiz 2** distributed
 - Supplemental Materials
     + Nielsen, J. B. (2016). Human Spinal Motor Control. Annual review of neuroscience, 39, 81–101. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-013913>
 

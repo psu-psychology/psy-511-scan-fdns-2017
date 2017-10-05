@@ -137,7 +137,7 @@ output:
 - Spinal cord >> cortex
 - Quantity of nerve growth factors (NGF) influences
 
-## Apoptosis and cortical expansion
+## Apoptosis and cortical expansion  {.smaller}
 
 <div class="centered">
 <img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg" height=450px>
@@ -188,7 +188,7 @@ output:
 [[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)
 </div>
 
-## Networks in the brain
+## Networks in the brain {.smaller}
 
 <div class="centered">
 <img src="https://pressroom.usc.edu/files/2014/02/brain-networks.jpg" height=450px>
@@ -241,7 +241,7 @@ Age-related profiles in connectivity among "non-control networks."
 [[@Cao2017-bl]](http://doi.org/10.1016/j.tins.2017.06.003)
 </div>
 
-## Myelination changes "network" properties
+## Myelination changes "network" properties {.smaller}
 
 <div class="centered">
 <img src="http://www.pnas.org/content/107/44/19067/F2.medium.gif" height=450px>
@@ -251,10 +251,10 @@ Age-related profiles in connectivity among "non-control networks."
 
 ## Synaptic rearrangment, myelination change cortical thickness
 
-- [[@gogtay2004dynamic]](gogtay2004dynamic)
+- [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
 - Areal differences in cortical thickness change
 
-## [[@gogtay2004dynamic]](gogtay2004dynamic)
+## [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
 
 <video width="320" height="240" controls>
   <source src="mov/02680Movie1.mp4" type="video/mp4">
