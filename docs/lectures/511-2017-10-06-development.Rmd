@@ -400,6 +400,14 @@ slides > slide:not(.nobackground):after {
 Glucose utilization across age.
 </div>
 
+## Gene expression across development {.smaller}
+
+<div class="centered">
+<img src="https://www.nature.com/nature/journal/v478/n7370/images/nature10523-f5.2.jpg" width=1000px>
+
+[[@Kang2011-ex]](http://doi.org/10.1038/nature10523)
+</div>
+
 # Summary of developmental milestones
 
 ## Prenatal
