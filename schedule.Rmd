@@ -143,7 +143,7 @@ title: "Schedule"
 - Supplemental Materials
     + Cao, M., Huang, H., & He, Y. (2017). Developmental connectomics from infancy through early childhood. *Trends in Neurosciences*, *40*(8), 494–506. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.06.003>
 - Materials
-    + Lecture notes | [HTML slides](lectures/511-2017-10-06-development.html) 
+    + Lecture notes | [HTML slides](lectures/511-2017-10-06-development.html) | 
 
 ---
 
@@ -153,14 +153,15 @@ title: "Schedule"
 
 - Topics
     + Perception. Read BW 8:223-247.
-- Supplemental Materials
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-10-11-perception.html) | 
 
 ### Fri, Oct 13
 
 - Topics
     + Perception. Read BW 8:223-247.
 - Supplemental Materials
-    + Murray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory Processes: A Balancing Act across the Lifespan. Trends in neurosciences, 39(8), 567–579. Retrieved July 28, 2016, from http://www.sciencedirect.com/science/article/pii/S0166223616300480
+    + Murray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory Processes: A Balancing Act across the Lifespan. Trends in Neurosciences, 39(8), 567–579. Retrieved July 28, 2016, from http://www.sciencedirect.com/science/article/pii/S0166223616300480
 
 ---
 
