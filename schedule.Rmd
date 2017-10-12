@@ -161,7 +161,9 @@ title: "Schedule"
 - Topics
     + Perception. Read BW 8:223-247.
 - Supplemental Materials
-    + Murray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory Processes: A Balancing Act across the Lifespan. Trends in Neurosciences, 39(8), 567–579. Retrieved July 28, 2016, from http://www.sciencedirect.com/science/article/pii/S0166223616300480
+    + Murray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory Processes: A Balancing Act across the Lifespan. *Trends in Neurosciences*, *39*(8), 567–579. Retrieved July 28, 2016, from http://www.sciencedirect.com/science/article/pii/S0166223616300480
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-10-13-perception-II.html) | 
 
 ---
 
