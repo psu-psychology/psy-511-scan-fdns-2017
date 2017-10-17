@@ -184,7 +184,7 @@ title: "Schedule"
 - Topics
     + Action
 - Supplemental Materials
-    + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: a dynamical systems perspective. Annual review of neuroscience, 36, 337–359. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
+    + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. Annual Review of Neuroscience, 36, 337–359. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
 
 ---
 
@@ -195,7 +195,7 @@ title: "Schedule"
 - Topics
     + Cognition. Read BW 17, 18, 19.
 - Supplemental Materials
-    + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. Annual review of neuroscience, 37, 347–362. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
+    + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. Annual Review of Neuroscience, 37, 347–362. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
 
 ### Fri, Oct 27
 
