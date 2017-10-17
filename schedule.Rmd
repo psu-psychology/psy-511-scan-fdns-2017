@@ -163,7 +163,7 @@ title: "Schedule"
 - Supplemental Materials
     + Murray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory Processes: A Balancing Act across the Lifespan. *Trends in Neurosciences*, *39*(8), 567–579. Retrieved July 28, 2016, from http://www.sciencedirect.com/science/article/pii/S0166223616300480
 - Materials
-    + Lecture notes | [HTML slides](lectures/511-2017-10-13-perception-II.html) | 
+    + Lecture notes | [HTML slides](lectures/511-2017-10-13-perception-II.html) | [PDF](lectures/511-2017-10-18-perception-II.pdf) |
 
 ---
 
@@ -176,6 +176,8 @@ title: "Schedule"
     + **Quiz 2** distributed
 - Supplemental Materials
     + Nielsen, J. B. (2016). Human Spinal Motor Control. Annual review of neuroscience, 39, 81–101. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-013913>
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-10-13-action-I.html) | [PDF](lectures/511-2017-10-18-action-I.pdf) |
 
 ### Fri, Oct 20
 
