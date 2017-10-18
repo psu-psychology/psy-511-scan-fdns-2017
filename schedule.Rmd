@@ -173,7 +173,7 @@ title: "Schedule"
 
 - Topics
     + Action
-    + **Quiz 2** distributed
+    + **Quiz 2** distributed. [Download](quiz/quiz-02/511-quiz-1.pdf) |. Due at start of class on Wednesday, October 25, 2017.
 - Supplemental Materials
     + Nielsen, J. B. (2016). Human Spinal Motor Control. Annual review of neuroscience, 39, 81–101. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-013913>
 - Materials
