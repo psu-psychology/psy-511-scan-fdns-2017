@@ -197,7 +197,9 @@ title: "Schedule"
 - Topics
     + Cognition. Read BW 17, 18, 19.
 - Supplemental Materials
-    + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. Annual Review of Neuroscience, 37, 347–362. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
+    + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. *Annual Review of Neuroscience*, *37*, 347–362. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-10-25-cognition.html) | [PDF](lectures/511-2017-10-25-cognition.pdf) |
 
 ### Fri, Oct 27
 
