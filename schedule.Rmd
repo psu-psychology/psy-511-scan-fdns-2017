@@ -206,7 +206,9 @@ title: "Schedule"
 - Topics
     + Learning & memory
 - Supplemental Materials
-    + Squire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. Annual review of neuroscience, 34, 259–288. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-061010-113720>.
+    + Squire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. *Annual Review of Neuroscience*, *34*, 259–288. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-061010-113720>.
+- Materials
+    + Lecture notes | [HTML slides](lectures/511-2017-10-27-memory.html) | [PDF](lectures/511-2017-10-27-memory.pdf) |
 
 ---
 
@@ -217,16 +219,16 @@ title: "Schedule"
 - Topic
     + Emotion. Read BW 15.
 - Supplemental Materials
-    + Pellman, B. A., & Kim, J. J. (2016). What Can Ethobehavioral Studies Tell Us about the Brain’s Fear System? Trends in neurosciences, 39(6), 420–431. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.04.001
-    + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or Chronic? A Stressful Question. Trends in neurosciences. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.07.002>
+    + Pellman, B. A., & Kim, J. J. (2016). What Can Ethobehavioral Studies Tell Us about the Brain’s Fear System? *Trends in Neurosciences*, *39*(6), 420–431. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.04.001
+    + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or Chronic? A Stressful Question. *Trends in Neurosciences*. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.07.002>
 
 ### Wed, Nov 3
 
 - Topics
     + Emotion
 - Supplemental Materials
-    + Hu, H. (2016). Reward and Aversion. Annual review of neuroscience, 39, 297–324. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-014106>
-    + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural Circuitry of Reward Prediction Error. Annual review of neuroscience, 40, 373–394. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-072116-031109>
+    + Hu, H. (2016). Reward and Aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-014106>
+    + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural Circuitry of Reward Prediction Error. *Annual Review of neuroscience*, *40*, 373–394. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-072116-031109>
 
 ---
 
@@ -237,16 +239,16 @@ title: "Schedule"
 - Topics
     + Disorder and Disease. Read BW 16.
 - Supplemental Materials
-    + Hunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant Network Activity in Schizophrenia. Trends in neurosciences, 40(6), 371–382. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.04.003
+    + Hunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant Network Activity in Schizophrenia. *Trends in Neurosciences*, *40*(6), 371–382. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.04.003
 
 ### Fri, Nov 10
 
 - Topics
     + Disorder and Disease. Read BW 16.
 - Supplemental Materials
-    + Pawluski, J. L., Lonstein, J. S., & Fleming, A. S. (2017). The Neurobiology of Postpartum Anxiety and Depression. Trends in neurosciences, 40(2), 106–120. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.11.009
-    + Namkung, H., Kim, S.-H., & Sawa, A. (2017). The Insula: An Underestimated Brain Area in Clinical Neuroscience, Psychiatry, and Neurology. Trends in neurosciences, 40(4), 200–207. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.002
-    + Volk, L., Chiu, S.-L., Sharma, K., & Huganir, R. L. (2015). Glutamate synapses in human cognitive disorders. Annual review of neuroscience, 38, 127–149. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071714-033821>
+    + Pawluski, J. L., Lonstein, J. S., & Fleming, A. S. (2017). The Neurobiology of Postpartum Anxiety and Depression. *Trends in Neurosciences*, *40*(2), 106–120. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.11.009
+    + Namkung, H., Kim, S.-H., & Sawa, A. (2017). The Insula: An Underestimated Brain Area in Clinical Neuroscience, Psychiatry, and Neurology. *Trends in Neurosciences*, *40*(4), 200–207. Retrieved from http://dx.doi.org/10.1016/j.tins.2017.02.002
+    + Volk, L., Chiu, S.-L., Sharma, K., & Huganir, R. L. (2015). Glutamate synapses in human cognitive disorders. *Annual Review of Neuroscience*, *38*, 127–149. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071714-033821>
 
 ---
 
