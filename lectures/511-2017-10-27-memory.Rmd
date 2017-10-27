@@ -176,14 +176,14 @@ output:
 <img src="http://www.hhmi.org/sites/default/files/Kandel-345x239.jpg" height=200px
 </div>
  
-<!-- ## Dimensions of stored info -->
+## Dimensions of stored info
 
-<!-- - Memory of what? -->
-<!--     + Facts/events/places/feelings vs. skills -->
-<!-- - Memory of when? -->
-<!--     + Immediate vs. distant past -->
-<!-- - Memory for how long? -->
-<!--     + Seconds vs. years -->
+- Memory of what or how recalled/recognized
+    + Facts/events/places/feelings vs. skills
+- Memory of when?
+    + Immediate vs. distant past
+- Memory for how long?
+    + Seconds vs. years
 
 ## Memory systems in the brain {.smaller}
 
@@ -220,6 +220,7 @@ output:
     + [Place cells](https://en.wikipedia.org/wiki/Place_cell)
     + [Grid cells](http://www.scholarpedia.org/article/Grid_cells)
     + [Head-direction cells](http://www.scholarpedia.org/article/Head_direction_cells)
+    
 ## Spatial precision of place cells {.smaller}
 
 <div class="centered">
