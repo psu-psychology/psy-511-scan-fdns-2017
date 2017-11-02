@@ -228,11 +228,12 @@ Muscle activity? Limb velocity? Or...?
 ## Dynamic systems perspective
 
 - Dynamics of
-    - World events, $W(s)$
-    - Extero- and interoceptive sensory systems, $S(t)$
-    - Nervous system states, $N(t)$
-    - Muscle states, $B(t)$
-    - Effects of muscles on world
+    - World events, $\dot W$
+    - Extero- and interoceptive sensory systems, $\dot S$
+    - Nervous system states, $\dot N$
+    - Muscle states, $\dot M$
+    - Body states, $\dot B$
+    - Effects of muscles on world, $\dot W = f(\dot M)$
     
 ---
 
