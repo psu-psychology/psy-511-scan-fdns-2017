@@ -184,7 +184,7 @@ title: "Schedule"
 - Topics
     + Action II
 - Supplemental Materials
-    + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. Annual Review of Neuroscience, 36, 337–359. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
+    + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
 - Materials
     + Lecture notes | [HTML slides](lectures/511-2017-10-20-action-II.html) | [PDF](lectures/511-2017-10-20-action-II.pdf) |
 
@@ -218,19 +218,20 @@ title: "Schedule"
 
 - Topic
     + Emotion. Read BW 15.
-<!-- - Supplemental Materials -->
-<!--     + Pellman, B. A., & Kim, J. J. (2016). What Can Ethobehavioral Studies Tell Us about the Brain’s Fear System? *Trends in Neurosciences*, *39*(6), 420–431. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.04.001 -->
-<!--     + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or Chronic? A Stressful Question. *Trends in Neurosciences*. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.07.002> -->
 - Materials
     + Lecture notes | [HTML slides](lectures/511-2017-11-01-emotion.html) | [PDF](lectures/511-2017-11-01-emotion.pdf) |
 
 ### Wed, Nov 3
 
 - Topics
-    + Emotion
-- Supplemental Materials
-    + Hu, H. (2016). Reward and Aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-014106>
-    + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural Circuitry of Reward Prediction Error. *Annual Review of neuroscience*, *40*, 373–394. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-072116-031109>
+    + Fear, stress, & reward
+- Readings
+    + Birthdate Jan-Jun
+        + Pellman, B. A., & Kim, J. J. (2016). What Can Ethobehavioral Studies Tell Us about the Brain’s Fear System? *Trends in Neurosciences*, *39*(6), 420–431. Retrieved from <http://dx.doi.org/10.1016/j.tins.2016.04.001>
+        + Hu, H. (2016). Reward and Aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-070815-014106>
+    + Birthdate Jul-Dec
+        + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or Chronic? A Stressful Question. *Trends in Neurosciences*. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.07.002>
+        + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural Circuitry of Reward Prediction Error. *Annual Review of Neuroscience*, *40*, 373–394. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-072116-031109>
 
 ---
 
