@@ -1,0 +1,23 @@
+---
+title: "student-presentation-prep"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output: 
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Possible groups and topics
+
+| Group topic | Members |
+|-------------|---------|
+| Insights from functional connectivity and computational models provide | Erin Guty, Yushuang Liu, Anna Salomaa, Jung Tae Soh |
+| What help is neuroscience to the practicing clinical psychologist? | Dever Carney, Thomas Crow, Jason Feldman, Siyuan Huang |
+| Emotion & values in the brain and body | Julian Scheffer, Victoria Spring, Alicia Vallorani, Anya Yu |
