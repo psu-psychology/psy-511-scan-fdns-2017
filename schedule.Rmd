@@ -246,7 +246,7 @@ title: "Schedule"
 - Supplemental Materials
     + Hunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant Network Activity in Schizophrenia. *Trends in Neurosciences*, *40*(6), 371–382. Retrieved from <http://dx.doi.org/10.1016/j.tins.2017.04.003>
 - Materials
-    + Lecture notes. | [HTML slides](lectures/511-2017-11-07-schizophrenia.html) | [PDF](lectures/511-2017-11-07-schizophrenia.pdf) |
+    + Lecture notes. | [HTML slides](lectures/511-2017-11-08-schizophrenia.html) | [PDF](lectures/511-2017-11-08-schizophrenia.pdf) |
     + Student presentation planning matrix. | [HTML slides](lectures/student-presentation-prep.html) |
 
 ### Fri, Nov 10
@@ -271,7 +271,7 @@ title: "Schedule"
 ### Fri, Nov 22
 
 - Topics
-    - Prep for student presentations
+    - Prep for student presentations (on your own)
 
 ---
 
