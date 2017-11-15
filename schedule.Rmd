@@ -267,7 +267,7 @@ title: "Schedule"
 ### Wed, Nov 15
 
 - Topics
-    + **Quiz 3**. | [Download](quiz/quiz-03/511-quiz-3.pdf) |. Due at start of class on Wednesday, November 29, 2017.
+    + **Quiz 3**. | [Download](quiz/quiz-03/511-quiz-03.pdf) |. Due at start of class on Wednesday, November 29, 2017.
     + Catch-up day
     
 ### Fri, Nov 22
