@@ -291,8 +291,7 @@ title: "Schedule"
 ### Fri, Dec 1
 
 - Topics
-    - Student presentation Group A
-    - Student presentation Group B
+    - Prep for student presentations
 
 ---
 
@@ -301,14 +300,18 @@ title: "Schedule"
 ### Wed, Dec 6
 
 - Topics
-    - Student presentation Group C
-    - Student presentation Group D
+    - Student presentation Group A
+    - Student presentation Group B
 
 ### Fri, Dec 8
 
 - Topics
-    + Networks all the way down
-- Supplemental Materials
-    + Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071714-033954>
-    + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-014030>.
-    + Sarkar, A., Lehto, S. M., Harty, S., Dinan, T. G., Cryan, J. F., & Burnet, P. W. J. (2016). Psychobiotics and the manipulation of bacteria-gut-brain signals. *Trends in Neurosciences*, *39*(11), 763–781. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.09.002
+    - Student presentation Group C
+    - Student presentation Group D
+
+<!-- - Topics -->
+<!--     + Networks all the way down -->
+<!-- - Supplemental Materials -->
+<!--     + Swanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. *Annual Review of Neuroscience*, *39*, 197–216. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071714-033954> -->
+<!--     + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <http://dx.doi.org/10.1146/annurev-neuro-071013-014030>. -->
+<!--     + Sarkar, A., Lehto, S. M., Harty, S., Dinan, T. G., Cryan, J. F., & Burnet, P. W. J. (2016). Psychobiotics and the manipulation of bacteria-gut-brain signals. *Trends in Neurosciences*, *39*(11), 763–781. Retrieved from http://dx.doi.org/10.1016/j.tins.2016.09.002 -->
