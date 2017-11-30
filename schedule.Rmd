@@ -300,14 +300,14 @@ title: "Schedule"
 ### Wed, Dec 6
 
 - Topics
-    - Student presentation Group A
-    - Student presentation Group B
+    - Student presentation Group A (Erin, Jason, Josie)
+    - Student presentation Group B (Alicia, Anya, Berenice, Yushuang)
 
 ### Fri, Dec 8
 
 - Topics
-    - Student presentation Group C
-    - Student presentation Group D
+    - Student presentation Group C (Julian, Jung Tae, Victoria)
+    - Student presentation Group D (Thomas, Anna, Dever)
 
 <!-- - Topics -->
 <!--     + Networks all the way down -->
