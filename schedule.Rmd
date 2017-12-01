@@ -302,6 +302,7 @@ title: "Schedule"
 - Topics
     - Student presentation Group A (Erin, Jason, Josie)
     - Student presentation Group B (Alicia, Anya, Berenice, Yushuang)
+        - Read: Lamm, C., & Majdandžić, J. (2015). The role of shared neural activations, mirror neurons, and morality in empathy--a critical comment. *Neuroscience Research*, *90*, 15–24. Elsevier. Retrieved from <http://www.sciencedirect.com/science/article/pii/S0168010214002314>
 
 ### Fri, Dec 8
 
