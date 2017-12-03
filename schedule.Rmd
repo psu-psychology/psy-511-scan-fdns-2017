@@ -313,6 +313,12 @@ title: "Schedule"
 - Topics
     - Student presentation Group C (Julian, Jung Tae, Victoria)
     - Student presentation Group D (Thomas, Anna, Dever)
+    
+## Week 16
+
+### Wed, Dec 13
+
+- Resource [write-up/review papers](evaluation.html) due by **noon**.
 
 <!-- - Topics -->
 <!--     + Networks all the way down -->
