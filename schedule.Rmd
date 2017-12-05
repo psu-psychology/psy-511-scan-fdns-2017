@@ -313,6 +313,9 @@ title: "Schedule"
 - Topics
     - Student presentation Group C (Julian, Jung Tae, Victoria)
     - Student presentation Group D (Thomas, Anna, Dever)
+        - Read
+            - Etkin, A., Pittenger, C., Polan, H. J., & Kandel, E. R. (2005). Toward a Neurobiology of Psychotherapy: Basic Science and Clinical Applications. *The Journal of Neuropsychiatry and Clinical Neurosciences*, *17*(2), 145–158. https://doi.org/10.1176/jnp.17.2.145
+            - Lantrip, C., Gunning, F. M., Flashman, L., Roth, R. M., & Holtzheimer, P. E. (2017). Effects of Transcranial Magnetic Stimulation on the Cognitive Control of Emotion: Potential Antidepressant Mechanisms. *The Journal of ECT*, *33*(2), 73. https://doi.org/10.1097/YCT.0000000000000386
     
 ## Week 16
 
