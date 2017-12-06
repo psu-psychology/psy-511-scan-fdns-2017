@@ -312,6 +312,9 @@ title: "Schedule"
 
 - Topics
     - Student presentation Group C (Julian, Jung Tae, Victoria)
+        - Read
+            - Hutcherson, C. A., Bushong, B., & Rangel, A. (2015). A Neurocomputational Model of Altruistic Choice and Its Implications. *Neuron*, *87*(2), 451–462. Elsevier. Retrieved from http://dx.doi.org/10.1016/j.neuron.2015.06.031
+            - Singer, T., & Steinbeis, N. (2009). Differential Roles of Fairness-and Compassion-Based Motivations for Cooperation, Defection, and Punishment. *Annals of the New York Academy of Sciences*, *1167*(1), 41–50. Wiley Online Library. Retrieved from http://onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.2009.04733.x/full
     - Student presentation Group D (Thomas, Anna, Dever)
         - Read
             - Etkin, A., Pittenger, C., Polan, H. J., & Kandel, E. R. (2005). Toward a Neurobiology of Psychotherapy: Basic Science and Clinical Applications. *The Journal of Neuropsychiatry and Clinical Neurosciences*, *17*(2), 145–158. https://doi.org/10.1176/jnp.17.2.145
