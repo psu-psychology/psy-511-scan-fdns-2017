@@ -6,8 +6,6 @@ title: ""
 
 ## PSY 511.001, Fall 2017
 
-<img src="http://socrates.berkeley.edu/~plab/book.jpg"/>
-
 ## Instructor
 
 Rick O. Gilmore, Ph.D.</br>
